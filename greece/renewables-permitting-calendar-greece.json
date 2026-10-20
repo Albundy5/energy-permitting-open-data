@@ -1,0 +1,51 @@
+{
+  "name": "Renewables permitting deadlines in Greece",
+  "description": "Producer Certificate filing cycles, deadlines for supplementary information, and the validity of the Final Connection Offer, the environmental terms decision (ΑΕΠΟ) and the Installation Licence, each with the provision that sets it.",
+  "inLanguage": "en",
+  "source": "https://ariadnelabs.eu/guides/renewables-permitting-calendar-greece.html",
+  "dateModified": "2026-10-20",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": "Ariadne Labs",
+  "rows": [
+    {
+      "What": "Application for a Producer Certificate",
+      "When": "1 to 10 February, June and October",
+      "Provision": "ΥΠΕΝ/ΔΑΠΕΕΚ/114746/4230/2020, art. 5(1) (ΦΕΚ Β΄ 5291/2020)"
+    },
+    {
+      "What": "Cycle extension for a technical problem",
+      "When": "up to 20 days, with reasons",
+      "Provision": "same decision, art. 5(9)"
+    },
+    {
+      "What": "Supplementary information for the Producer Certificate",
+      "When": "a set deadline fixed by the licensing body",
+      "Provision": "same decision, art. 9(1) and (2)"
+    },
+    {
+      "What": "Supplementary information for the Final Connection Offer",
+      "When": "the operator asks within 20 days; the applicant has no less than 20 days to reply",
+      "Provision": "Law 4951/2022, art. 5(7)"
+    },
+    {
+      "What": "Validity of the Final Connection Offer",
+      "When": "three years, on the conditions of Law 5299/2026",
+      "Provision": "Law 4951/2022, art. 5(16), as replaced by Law 5299/2026, art. 14(2)"
+    },
+    {
+      "What": "Validity of the environmental terms decision (ΑΕΠΟ)",
+      "When": "fifteen years",
+      "Provision": "Law 4014/2011, art. 2(8), as replaced by Law 4685/2020, art. 1(1)"
+    },
+    {
+      "What": "Timely application to renew the ΑΕΠΟ",
+      "When": "at least two months before expiry",
+      "Provision": "Law 4014/2011, art. 5(1) and (4)"
+    },
+    {
+      "What": "Validity of the Installation Licence",
+      "When": "three years, four for Special Projects",
+      "Provision": "Law 4951/2022, art. 19(1) and (2)"
+    }
+  ]
+}

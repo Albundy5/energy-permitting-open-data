@@ -1,0 +1,200 @@
+{
+  "name": "Aree idonee: stato di attuazione nelle regioni italiane",
+  "description": "Per ogni regione e provincia autonoma, lo stato dell'attuazione regionale delle aree idonee dopo la Legge 4/2026: legge verificata, proposta in esame o non accertato, con l'atto, la pubblicazione, l'entrata in vigore e il link alla fonte ufficiale.",
+  "inLanguage": "it",
+  "source": "https://ariadnelabs.eu/it/guide/aree-idonee-regioni.html",
+  "dateModified": "2026-10-20",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": "Ariadne Labs",
+  "rows": [
+    {
+      "Regione": "Abruzzo",
+      "Stato": "Legge verificata",
+      "Atto": "L.R. 7 maggio 2026 n. 9, BURAT ordinario n. 19 del 13 maggio 2026, in vigore dal 14 maggio 2026; modificata dall'art. 38 della L.R. 3 luglio 2026 n. 13",
+      "Fonte": "BURAT",
+      "Link": [
+        "https://bura.regione.abruzzo.it/sites/bura.regione.abruzzo.it/files/bollettini/2026-05-12/bollettino-ordinario-numero-19-del-13-05-2026_0.pdf"
+      ]
+    },
+    {
+      "Regione": "Basilicata",
+      "Stato": "Non accertato in questa ricerca",
+      "Atto": "Il registro delle leggi regionali non espone un corpus interrogabile completo",
+      "Fonte": "Registro leggi",
+      "Link": [
+        "https://atticonsiglio.consiglio.basilicata.it/AD_Elenco_Leggi"
+      ]
+    },
+    {
+      "Regione": "Calabria",
+      "Stato": "Non accertato in questa ricerca",
+      "Atto": "Banche dati del Consiglio e BURC consultate, legge dedicata non accertata",
+      "Fonte": "Banche dati",
+      "Link": [
+        "https://www.consrc.it/portale/BancheDati/Leggi"
+      ]
+    },
+    {
+      "Regione": "Campania",
+      "Stato": "Non accertato in questa ricerca",
+      "Atto": "Reperito solo il quadro FER precedente, L.R. 6 novembre 2018 n. 37, che non prova un'attuazione dell'art. 11-bis",
+      "Fonte": "Normativa regionale",
+      "Link": [
+        "https://www.regione.campania.it/normativa/item.php?id_doc_type=1&id_tema=19&pgCode=G19I231R1800&refresh=on"
+      ]
+    },
+    {
+      "Regione": "Emilia-Romagna",
+      "Stato": "Legge verificata",
+      "Atto": "L.R. 29 maggio 2026 n. 5, BURERT n. 135 del 29 maggio 2026, in vigore dal 30 maggio 2026; progetto di modifica 3299 in fase di presentazione",
+      "Fonte": "Demetra",
+      "Link": [
+        "https://demetra.regione.emilia-romagna.it/al/articolo?urn=er%3Aassemblealegislativa%3Alegge%3A2026%3B5"
+      ]
+    },
+    {
+      "Regione": "Friuli Venezia Giulia",
+      "Stato": "Legge verificata",
+      "Atto": "L.R. 4 marzo 2025 n. 2, 1° supplemento ordinario 2 del 6 marzo 2025 al BUR 10, in vigore dal 7 marzo 2025; il rinvio dell'art. 8 comma 4 è aggiornato dall'art. 55 comma 18 della L.R. 16 ottobre 2026 n. 11, 1° supplemento ordinario n. 30 del 19 ottobre 2026",
+      "Fonte": "BUR FVG",
+      "Link": [
+        "https://bur.regione.fvg.it/newbur/downloadPDF?doc=0&name=2025/03/06/so%202_noLEGAL.pdf"
+      ]
+    },
+    {
+      "Regione": "Lazio",
+      "Stato": "Non accertato in questa ricerca",
+      "Atto": "Elenco ufficiale delle leggi vigenti e BUR consultati, legge post riforma non accertata",
+      "Fonte": "Leggi regionali",
+      "Link": [
+        "https://consiglio.regione.lazio.it/consiglio-regionale/?pg=1&sv=vigente&vw=leggiregionali"
+      ]
+    },
+    {
+      "Regione": "Liguria",
+      "Stato": "Legge verificata",
+      "Atto": "L.R. 5 ottobre 2026 n. 12, BURL n. 11 del 7 ottobre 2026, parte I, in vigore dal 22 ottobre 2026",
+      "Fonte": "BURL",
+      "Link": [
+        "https://www.burl.it/ArchivioFile/C6D176BE-306A-795D-9121-77813DE2A37A.PDF"
+      ]
+    },
+    {
+      "Regione": "Lombardia",
+      "Stato": "Legge verificata",
+      "Atto": "L.R. 21 maggio 2026 n. 10, BURL n. 22, supplemento, 25 maggio 2026",
+      "Fonte": "NormeLombardia",
+      "Link": [
+        "https://normelombardia.consiglio.regione.lombardia.it/NormeLombardia/Accessibile/main.aspx?iddoc=lr002026052100010&view=showdoc"
+      ]
+    },
+    {
+      "Regione": "Marche",
+      "Stato": "Proposta in esame, non ancora legge",
+      "Atto": "Consultazione del 16 settembre 2026 documentata; approvazione non accertata",
+      "Fonte": "Regione",
+      "Link": [
+        "https://www.regione.marche.it/Entra-in-Regione/Centri-Impiego/Centri-per-l-impiego/News-ed-eventi/Post/118241"
+      ]
+    },
+    {
+      "Regione": "Molise",
+      "Stato": "Proposta riportata, non accertata",
+      "Atto": "Proposta riferita al 27 febbraio 2026; registro ufficiale e legge successiva non reperiti",
+      "Fonte": "Regione",
+      "Link": [
+        "https://www.regione.molise.it/"
+      ]
+    },
+    {
+      "Regione": "Piemonte",
+      "Stato": "Legge verificata",
+      "Atto": "L.R. 28 luglio 2026 n. 15, B.U. Piemonte n. 29, 8° supplemento, 28 luglio 2026, in vigore dal giorno di pubblicazione (art. 14 comma 1)",
+      "Fonte": "Arianna",
+      "Link": [
+        "https://arianna.cr.piemonte.it/iterlegcoordweb/dettaglioLegge.do?urnLegge=urn%3Anir%3Aregione.piemonte%3Alegge%3A2026%3B15"
+      ]
+    },
+    {
+      "Regione": "Puglia",
+      "Stato": "Proposta in esame, non ancora legge",
+      "Atto": "Esame in commissione e audizioni del 18 marzo 2026 accertati; stato attuale della proposta non accertato",
+      "Fonte": "Consiglio regionale",
+      "Link": [
+        "https://www.consiglio.puglia.it/"
+      ]
+    },
+    {
+      "Regione": "Sardegna",
+      "Stato": "Legge verificata, con annullamenti parziali",
+      "Atto": "L.R. 5 dicembre 2024 n. 20, BURAS n. 65 del 5 dicembre 2024; modificata dalla L.R. 6 novembre 2025 n. 31, BURAS n. 61 del 13 novembre 2025. Corte cost. 184/2025 e 144/2026 hanno annullato parte delle disposizioni",
+      "Fonte": "BURAS",
+      "Link": [
+        "https://buras.regione.sardegna.it/bollettino/59327/parte/59329/inserzione/59441"
+      ]
+    },
+    {
+      "Regione": "Sicilia",
+      "Stato": "Legge pubblicata secondo l'ARS, GURS non consultabile",
+      "Atto": "L.R. 4 agosto 2026 n. 21, GURS n. 36 del 7 agosto 2026, secondo la banca dati dell'Assemblea regionale siciliana. La data del 22 luglio 2026, riportata da un avviso dipartimentale, non è compatibile con la numerazione: le leggi regionali n. 18, 19 e 20 sono del 30 luglio 2026",
+      "Fonte": "ARS",
+      "Link": [
+        "https://w3.ars.sicilia.it/lex/L_2026_021.htm"
+      ]
+    },
+    {
+      "Regione": "Toscana",
+      "Stato": "Proposta in esame, non ancora legge",
+      "Atto": "Proposta dedicata alle aree idonee distinta dal piano PRIZAT; audizioni in commissione il 17 settembre 2026",
+      "Fonte": "Consiglio regionale",
+      "Link": [
+        "https://inconsiglio.it/comunicato-stampa/transizione-energetica-aree-idonee-e-semplificazione-amministrativa-le-posizioni-in-toscana/"
+      ]
+    },
+    {
+      "Regione": "Trentino-Alto Adige, Provincia autonoma di Trento",
+      "Stato": "Atto accertato, metadati da chiudere",
+      "Atto": "L.P. 2 maggio 2022 n. 4, B.U. n. 17 del 3 maggio 2022; modificata dalla L.P. 7 agosto 2026 n. 6, in vigore dall'8 agosto 2026, con nuovo allegato B-bis",
+      "Fonte": "Codice provinciale",
+      "Link": [
+        "https://www.consiglio.provincia.tn.it/leggi-e-archivi/codice-provinciale/Pages/legge.aspx?ancora=2026-01-09-08-31-58&tab=clex_scheda_tab_ultimotesto&uid=37098"
+      ]
+    },
+    {
+      "Regione": "Trentino-Alto Adige, Provincia autonoma di Bolzano",
+      "Stato": "Non accertato in questa ricerca",
+      "Atto": "Legge provinciale dedicata non accertata; un avviso del 6 marzo 2026 riguarda modifiche al regolamento di attuazione preesistente",
+      "Fonte": "Lexbrowser",
+      "Link": [
+        "https://lexbrowser.provinz.bz.it/"
+      ]
+    },
+    {
+      "Regione": "Umbria",
+      "Stato": "Legge verificata",
+      "Atto": "L.R. 16 ottobre 2025 n. 7, BUR Umbria n. 51 del 17 ottobre 2025; modificata dalla L.R. 7 aprile 2026 n. 4 artt. 86-94, in vigore dal 9 aprile 2026. L'art. 94 sopprime la tabella dell'allegato A",
+      "Fonte": "Leggi Umbria",
+      "Link": [
+        "https://leggi.alumbria.it/mostra_atto.php?id=250008&m=5&v=FI%2CSA%2CTE%2CIS%2CVE%2CRA%2CMM"
+      ]
+    },
+    {
+      "Regione": "Valle d'Aosta",
+      "Stato": "Legge verificata",
+      "Atto": "L.R. 28 luglio 2025 n. 24, B.U. Valle d'Aosta n. 44, straordinario, 8 agosto 2025, in vigore dal 9 agosto 2025",
+      "Fonte": "Consiglio regionale",
+      "Link": [
+        "https://www.consiglio.vda.it/app/leggieregolamenti/dettaglio?numero_legge=24%2F25&tipo=L&versione=V"
+      ]
+    },
+    {
+      "Regione": "Veneto",
+      "Stato": "Approvata dalla Giunta, non ancora legge",
+      "Atto": "Disegno di legge approvato dalla Giunta il 28 luglio 2026 e trasmesso al Consiglio; nessun atto pubblicato accertato in BURV",
+      "Fonte": "Regione",
+      "Link": [
+        "https://www.regione.veneto.it/article-detail?articleId=14400165"
+      ]
+    }
+  ]
+}

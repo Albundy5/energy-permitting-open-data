@@ -1,0 +1,53 @@
+{
+  "name": "Letters of guarantee in Greek renewables and storage permitting",
+  "description": "The amount of each letter of guarantee on the route of a renewable or storage station in Greece, from the Producer Certificate to the ΡΑΑΕΥ tenders, when it is returned or forfeited, and the provision that sets it.",
+  "inLanguage": "en",
+  "source": "https://ariadnelabs.eu/guides/letters-of-guarantee-renewables-greece.html",
+  "dateModified": "2026-10-20",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": "Ariadne Labs",
+  "rows": [
+    {
+      "Guarantee": "Producer certificate",
+      "Amount": "EUR 35,000 per MW of maximum generation capacity",
+      "Return or forfeiture": "returned when a complete request for a Final Connection Offer is filed",
+      "Provision": "Law 4685/2020, art. 11A"
+    },
+    {
+      "Guarantee": "Final Connection Offer",
+      "Amount": "EUR 42, 21, 14 and 7 per kW by tranche; since 31.10.2024 30% is lodged (15% below 1 MW)",
+      "Return or forfeiture": "forfeited if not renewed in time, or if no connection contract takes effect while the offer is valid",
+      "Provision": "Law 4951/2022, arts. 6 and 89A"
+    },
+    {
+      "Guarantee": "Priority (ΑΔΜΗΕ groups Α, Β, Δ and Π9)",
+      "Amount": "EUR 100,000 per MW",
+      "Return or forfeiture": "halved on the connection contract, returned on operation",
+      "Provision": "ΥΠΕΝ/ΓΔΕ/84014/7123/2022, art. 6"
+    },
+    {
+      "Guarantee": "Bilateral agreement (Group Β)",
+      "Amount": "EUR 100,000 per MW",
+      "Return or forfeiture": "forfeited if the signed agreement is not filed within 9 months of the offer",
+      "Provision": "same decision, arts. 2 and 7"
+    },
+    {
+      "Guarantee": "Proper and timely performance, ΡΑΑΕΥ storage tenders",
+      "Amount": "EUR 250,000, 150,000 and 200,000 per MW (first, second, third tender)",
+      "Return or forfeiture": "forfeited in full without a connection activation request by 15.12.2026",
+      "Provision": "Law 5233/2025, art. 43(1), as amended by Law 5338/2026"
+    },
+    {
+      "Guarantee": "Standalone storage, 2025 call",
+      "Amount": "EUR 200,000 per MW above 10 MW, EUR 50,000 per MW up to 10 MW",
+      "Return or forfeiture": "the performance and operation guarantee is halved after 3 years of operation and returned after 6",
+      "Provision": "ΥΠΕΝ/ΓΔΕ/28255/1143/2025, as amended"
+    },
+    {
+      "Guarantee": "Pumped storage with absolute priority",
+      "Amount": "an additional guarantee, four times the art. 6 amount",
+      "Return or forfeiture": "20% forfeited if the applicant withdraws",
+      "Provision": "Law 4685/2020, art. 11Δ(9)"
+    }
+  ]
+}

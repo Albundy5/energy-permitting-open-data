@@ -1,0 +1,51 @@
+{
+  "name": "Grid connection priority groups in Greece",
+  "description": "How connection requests for renewable and storage stations are ranked at ΑΔΜΗΕ and ΔΕΔΔΗΕ: the decision in force, the groups, the order within a group and the separate storage tracks, each with its provision.",
+  "inLanguage": "en",
+  "source": "https://ariadnelabs.eu/guides/grid-connection-priority-groups-greece.html",
+  "dateModified": "2026-10-20",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": "Ariadne Labs",
+  "rows": [
+    {
+      "What": "Who sets the order",
+      "Rule": "a ministerial decision, overriding any other provision",
+      "Provision": "Law 4951/2022, art. 89(1) and (5)"
+    },
+    {
+      "What": "The decision in force",
+      "Rule": "ΥΠΕΝ/ΓΔΕ/84014/7123/12.08.2022, as amended in 2023 and 2025",
+      "Provision": "ΦΕΚ Β΄ 4333/2022, Β΄ 275/2023, Β΄ 4710/2025"
+    },
+    {
+      "What": "Order at ΑΔΜΗΕ (transmission)",
+      "Rule": "groups Α to ΣΤ; each higher group goes first",
+      "Provision": "same decision, arts. 2 and 8"
+    },
+    {
+      "What": "Order within a group",
+      "Rule": "date of the complete request; for groups Β and Δ, completeness of the group's own supporting documents",
+      "Provision": "same decision, art. 8(1)"
+    },
+    {
+      "What": "Group Β, bilateral PPA",
+      "Rule": "up to 4,000 MW; guarantee of EUR 100,000 per MW; signed PPA within 9 months of the offer",
+      "Provision": "same decision, art. 2, as amended by Β΄ 4710/2025"
+    },
+    {
+      "What": "Order at ΔΕΔΔΗΕ (distribution)",
+      "Rule": "groups Α to Ε, ranked separately per ΔΕΔΔΗΕ Region, with monthly lists",
+      "Provision": "same decision, art. 9"
+    },
+    {
+      "What": "Self-consumption and building PV, outside saturated areas",
+      "Rule": "ΔΕΔΔΗΕ group Β",
+      "Provision": "Law 5299/2026, art. 51"
+    },
+    {
+      "What": "Storage",
+      "Rule": "separate tracks, with their own capacity caps",
+      "Provision": "same decision, arts. 12 and 13; Law 5299/2026, art. 56; Law 5325/2026, arts. 55 and 57"
+    }
+  ]
+}
