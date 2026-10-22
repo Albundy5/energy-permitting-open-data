@@ -1,0 +1,126 @@
+{
+  "name": "Standalone battery storage in Greece: Standard Environmental Commitments decisions by month",
+  "description": "Number of decisions including standalone storage stations under ΠΠΔ, and injection power in MW where the subject states it, by month of issue.",
+  "inLanguage": "en",
+  "source": "https://ariadnelabs.eu/guides/greece-battery-storage-environmental-approvals.html",
+  "dateModified": "2026-10-21",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": "Ariadne Labs",
+  "rows": [
+    {
+      "Month of issue": "November 2024",
+      "Inclusion decisions": "9",
+      "Injection power (MW)": "294"
+    },
+    {
+      "Month of issue": "December 2024",
+      "Inclusion decisions": "19",
+      "Injection power (MW)": "486"
+    },
+    {
+      "Month of issue": "January 2025",
+      "Inclusion decisions": "22",
+      "Injection power (MW)": "391"
+    },
+    {
+      "Month of issue": "February 2025",
+      "Inclusion decisions": "35",
+      "Injection power (MW)": "1163"
+    },
+    {
+      "Month of issue": "March 2025",
+      "Inclusion decisions": "42",
+      "Injection power (MW)": "1051"
+    },
+    {
+      "Month of issue": "April 2025",
+      "Inclusion decisions": "42",
+      "Injection power (MW)": "1241"
+    },
+    {
+      "Month of issue": "May 2025",
+      "Inclusion decisions": "53",
+      "Injection power (MW)": "1414"
+    },
+    {
+      "Month of issue": "June 2025",
+      "Inclusion decisions": "51",
+      "Injection power (MW)": "846"
+    },
+    {
+      "Month of issue": "July 2025",
+      "Inclusion decisions": "51",
+      "Injection power (MW)": "1111"
+    },
+    {
+      "Month of issue": "August 2025",
+      "Inclusion decisions": "43",
+      "Injection power (MW)": "803"
+    },
+    {
+      "Month of issue": "September 2025",
+      "Inclusion decisions": "63",
+      "Injection power (MW)": "1781"
+    },
+    {
+      "Month of issue": "October 2025",
+      "Inclusion decisions": "43",
+      "Injection power (MW)": "856"
+    },
+    {
+      "Month of issue": "November 2025",
+      "Inclusion decisions": "14",
+      "Injection power (MW)": "290"
+    },
+    {
+      "Month of issue": "December 2025",
+      "Inclusion decisions": "9",
+      "Injection power (MW)": "187"
+    },
+    {
+      "Month of issue": "January 2026",
+      "Inclusion decisions": "5",
+      "Injection power (MW)": "293"
+    },
+    {
+      "Month of issue": "February 2026",
+      "Inclusion decisions": "13",
+      "Injection power (MW)": "309"
+    },
+    {
+      "Month of issue": "March 2026",
+      "Inclusion decisions": "13",
+      "Injection power (MW)": "165"
+    },
+    {
+      "Month of issue": "April 2026",
+      "Inclusion decisions": "15",
+      "Injection power (MW)": "276"
+    },
+    {
+      "Month of issue": "May 2026",
+      "Inclusion decisions": "11",
+      "Injection power (MW)": "476"
+    },
+    {
+      "Month of issue": "June 2026",
+      "Inclusion decisions": "12",
+      "Injection power (MW)": "170"
+    },
+    {
+      "Month of issue": "July 2026",
+      "Inclusion decisions": "8",
+      "Injection power (MW)": "468"
+    },
+    {
+      "Month of issue": "August 2026",
+      "Inclusion decisions": "2",
+      "Injection power (MW)": "111"
+    },
+    {
+      "Month of issue": "September 2026",
+      "Inclusion decisions": "4",
+      "Injection power (MW)": "135"
+    }
+  ]
+}

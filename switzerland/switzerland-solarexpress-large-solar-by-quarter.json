@@ -1,0 +1,56 @@
+{
+  "name": "Large solar plants under art. 71a of the Swiss Energy Act (Solarexpress): public displays by quarter",
+  "description": "Number of projects and currently reported capacity in MW by the quarter in which the building application was first put on public display, from the SFOE dataset Photovoltaik-Grossanlagen.",
+  "inLanguage": "en",
+  "source": "https://ariadnelabs.eu/guides/solarexpress-switzerland-alpine-solar.html",
+  "dateModified": "2026-10-21",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": "Ariadne Labs",
+  "rows": [
+    {
+      "Quarter of public display": "Q4 2023",
+      "Projects": "3",
+      "Capacity (MW)": "61.1"
+    },
+    {
+      "Quarter of public display": "Q1 2024",
+      "Projects": "5",
+      "Capacity (MW)": "51.7"
+    },
+    {
+      "Quarter of public display": "Q2 2024",
+      "Projects": "6",
+      "Capacity (MW)": "146.5"
+    },
+    {
+      "Quarter of public display": "Q3 2024",
+      "Projects": "2",
+      "Capacity (MW)": "19.4"
+    },
+    {
+      "Quarter of public display": "Q4 2024",
+      "Projects": "2",
+      "Capacity (MW)": "15.6"
+    },
+    {
+      "Quarter of public display": "Q1 2025",
+      "Projects": "2",
+      "Capacity (MW)": "16.5"
+    },
+    {
+      "Quarter of public display": "Q2 2025",
+      "Projects": "3",
+      "Capacity (MW)": "47.3"
+    },
+    {
+      "Quarter of public display": "Q3 2025",
+      "Projects": "1",
+      "Capacity (MW)": "6.2"
+    },
+    {
+      "Quarter of public display": "Q4 2025",
+      "Projects": "5",
+      "Capacity (MW)": "70.6"
+    }
+  ]
+}

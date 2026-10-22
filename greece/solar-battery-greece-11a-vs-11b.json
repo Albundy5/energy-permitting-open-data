@@ -1,0 +1,36 @@
+{
+  "name": "Solar PV with a battery in Greece: charging from the PV only (par. 11A) or also from the grid (par. 11B)",
+  "description": "How the two types of station with integrated storage in article 10 of Law 4685/2020 differ: charging from the grid, licensing act, injection limit, basis of the letter of guarantee and the cap per group.",
+  "inLanguage": "en",
+  "source": "https://ariadnelabs.eu/guides/adding-battery-storage-to-solar-pv-greece.html",
+  "dateModified": "2026-10-20",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": "Ariadne Labs",
+  "rows": [
+    {
+      "Topic": "Drawing power from the grid",
+      "Par. 11A: charging from the PV only": "no, except for the station's auxiliary consumption",
+      "Par. 11B: charging also from the grid": "yes, for storage"
+    },
+    {
+      "Topic": "Licensing act",
+      "Par. 11A: charging from the PV only": "Producer Certificate",
+      "Par. 11B: charging also from the grid": "Special Projects Certificate"
+    },
+    {
+      "Topic": "Injection limit under article 11Γ",
+      "Par. 11A: charging from the PV only": "40% of the PV plant's installed power from 07:00 to 19:00",
+      "Par. 11B: charging also from the grid": "the hourly limits of Β΄ 3328/2023 for storage stations on the transmission system"
+    },
+    {
+      "Topic": "Power used for the letter of guarantee",
+      "Par. 11A: charging from the PV only": "maximum generation power",
+      "Par. 11B: charging also from the grid": "maximum injection power"
+    },
+    {
+      "Topic": "500 MW cap per group on batteries until 2029",
+      "Par. 11A: charging from the PV only": "does not count",
+      "Par. 11B: charging also from the grid": "counts"
+    }
+  ]
+}

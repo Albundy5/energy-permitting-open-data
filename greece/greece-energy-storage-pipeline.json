@@ -1,0 +1,32 @@
+{
+  "name": "Energy storage in Greece: stations by licensing and connection stage",
+  "description": "Number of electricity storage stations, injection power and capacity at each stage: storage licence in ΡΑΑΕΥ's register, complete connection requests pending at ΑΔΜΗΕ, and a connection offer or operation on the transmission system, with the source and date of every figure.",
+  "inLanguage": "en",
+  "source": "https://ariadnelabs.eu/guides/greece-energy-storage-pipeline.html",
+  "dateModified": "2026-10-20",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": "Ariadne Labs",
+  "rows": [
+    {
+      "Stage": "Storage licence, ΡΑΑΕΥ register",
+      "Stations": "1,580",
+      "Injection power (GW)": "65.3",
+      "Capacity (GWh)": "307.1",
+      "Source and date": "ΡΑΑΕΥ, 20 October 2026"
+    },
+    {
+      "Stage": "Complete connection requests pending at ΑΔΜΗΕ",
+      "Stations": "480",
+      "Injection power (GW)": "27.5",
+      "Capacity (GWh)": "80.0",
+      "Source and date": "ΑΔΜΗΕ, position at 31 October 2025"
+    },
+    {
+      "Stage": "Connection offer or in operation, transmission system",
+      "Stations": "42",
+      "Injection power (GW)": "1.6",
+      "Capacity (GWh)": "5.3",
+      "Source and date": "ΑΔΜΗΕ, register of April 2026"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Storage stations with a connection offer or in operation on the Greek transmission system, by edition of ΑΔΜΗΕ's register",
+  "description": "Number of storage stations, injection power and capacity in ΑΔΜΗΕ's twice-yearly registers of stations with a connection offer or in operation, since May 2024.",
+  "inLanguage": "en",
+  "source": "https://ariadnelabs.eu/guides/greece-energy-storage-pipeline.html",
+  "dateModified": "2026-10-20",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": "Ariadne Labs",
+  "rows": [
+    {
+      "Register edition": "May 2024",
+      "Stations": "13",
+      "Injection power (GW)": "0.5",
+      "Capacity (GWh)": "1.2"
+    },
+    {
+      "Register edition": "October 2024",
+      "Stations": "24",
+      "Injection power (GW)": "0.8",
+      "Capacity (GWh)": "1.9"
+    },
+    {
+      "Register edition": "April 2025",
+      "Stations": "27",
+      "Injection power (GW)": "0.9",
+      "Capacity (GWh)": "2.2"
+    },
+    {
+      "Register edition": "October 2025",
+      "Stations": "40",
+      "Injection power (GW)": "1.5",
+      "Capacity (GWh)": "4.2"
+    },
+    {
+      "Register edition": "April 2026",
+      "Stations": "42",
+      "Injection power (GW)": "1.6",
+      "Capacity (GWh)": "5.3"
+    }
+  ]
+}

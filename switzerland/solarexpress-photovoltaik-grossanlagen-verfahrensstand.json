@@ -1,0 +1,67 @@
+{
+  "name": "Photovoltaik-Grossanlagen nach Art. 71a EnG (Solarexpress): Projekte nach Verfahrensstand",
+  "description": "Anzahl Projekte, Leistung in MW sowie Jahres- und Winterproduktion in GWh nach dem jüngsten Status, den das BFE zu jedem Projekt führt, aus dem BFE-Datensatz Photovoltaik-Grossanlagen.",
+  "inLanguage": "de",
+  "source": "https://ariadnelabs.eu/de/leitfaeden/solarexpress-photovoltaik-grossanlagen.html",
+  "dateModified": "2026-10-21",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": "Ariadne Labs",
+  "rows": [
+    {
+      "Status": "öffentlich aufgelegt",
+      "Projekte": "11",
+      "Leistung (MW)": "256.7",
+      "Jahresproduktion (GWh)": "388.9",
+      "davon Winterhalbjahr (GWh)": "173.0"
+    },
+    {
+      "Status": "erstinstanzlich bewilligt",
+      "Projekte": "10",
+      "Leistung (MW)": "90.6",
+      "Jahresproduktion (GWh)": "141.2",
+      "davon Winterhalbjahr (GWh)": "57.5"
+    },
+    {
+      "Status": "rechtskräftig bewilligt",
+      "Projekte": "3",
+      "Leistung (MW)": "32.1",
+      "Jahresproduktion (GWh)": "45.8",
+      "davon Winterhalbjahr (GWh)": "19.2"
+    },
+    {
+      "Status": "teilweise in Betrieb",
+      "Projekte": "4",
+      "Leistung (MW)": "46.1",
+      "Jahresproduktion (GWh)": "69.8",
+      "davon Winterhalbjahr (GWh)": "30.3"
+    },
+    {
+      "Status": "vollständig in Betrieb",
+      "Projekte": "0",
+      "Leistung (MW)": "0.0",
+      "Jahresproduktion (GWh)": "0.0",
+      "davon Winterhalbjahr (GWh)": "0.0"
+    },
+    {
+      "Status": "Betrieb nach 3 Jahren",
+      "Projekte": "0",
+      "Leistung (MW)": "0.0",
+      "Jahresproduktion (GWh)": "0.0",
+      "davon Winterhalbjahr (GWh)": "0.0"
+    },
+    {
+      "Status": "zurückgezogen",
+      "Projekte": "1",
+      "Leistung (MW)": "9.4",
+      "Jahresproduktion (GWh)": "12.0",
+      "davon Winterhalbjahr (GWh)": "5.3"
+    },
+    {
+      "Status": "abgewiesen",
+      "Projekte": "0",
+      "Leistung (MW)": "0.0",
+      "Jahresproduktion (GWh)": "0.0",
+      "davon Winterhalbjahr (GWh)": "0.0"
+    }
+  ]
+}

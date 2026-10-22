@@ -1,0 +1,61 @@
+{
+  "name": "Merchant battery storage in Greece: the rules of the call for a Final Connection Offer",
+  "description": "Capacity caps, competent operator, deadline, technical requirements, financial capability, letters of guarantee, readiness declaration and concentration limits of ministerial decision ΥΠΕΝ/ΓΔΕ/28255/1143/2025 for standalone battery storage, each with its provision.",
+  "inLanguage": "en",
+  "source": "https://ariadnelabs.eu/guides/merchant-battery-storage-greece-grid-connection.html",
+  "dateModified": "2026-10-20",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": "Ariadne Labs",
+  "rows": [
+    {
+      "What": "Total cap on Final Connection Offers",
+      "Rule": "3,800 MW of maximum injection capacity from ΑΔΜΗΕ and 900 MW from ΔΕΔΔΗΕ",
+      "Provision": "ΥΠΕΝ/ΓΔΕ/28255/1143/2025, art. 2(1)"
+    },
+    {
+      "What": "Which operator",
+      "Rule": "ΔΕΔΔΗΕ for stations up to and including 10 MW, ΑΔΜΗΕ for larger ones",
+      "Provision": "same decision, art. 2(1), as amended by Β΄ 5165/2025"
+    },
+    {
+      "What": "Application deadline",
+      "Rule": "31 October 2025",
+      "Provision": "same decision, art. 3(2), as amended by Β΄ 5165/2025"
+    },
+    {
+      "What": "Technical minimum",
+      "Rule": "batteries only; injection capacity of at least 0.5 MW; usable capacity of at least two hours; round-trip efficiency of at least 80%",
+      "Provision": "same decision, arts. 3(1) and 4(1)"
+    },
+    {
+      "What": "Financial capability",
+      "Rule": "a loan pre-approval or own funds for the whole cost, at a reference cost of EUR 200 per kWh of guaranteed capacity; letters of intent are not accepted",
+      "Provision": "same decision, art. 3(1) and (2), as amended by Β΄ 5165/2025"
+    },
+    {
+      "What": "Participation guarantee",
+      "Rule": "EUR 200,000 per MW above 10 MW, EUR 50,000 per MW up to 10 MW (EUR 100,000 per MW without financing evidence), valid for at least two years",
+      "Provision": "same decision, art. 3(2)(ιγ), as amended by Β΄ 5165/2025"
+    },
+    {
+      "What": "Performance and operation guarantee",
+      "Rule": "EUR 200,000 per MW above 10 MW, EUR 50,000 per MW up to 10 MW; halved after three years of operation and returned after six",
+      "Provision": "same decision, art. 7(2), as amended by Β΄ 5165/2025"
+    },
+    {
+      "What": "Readiness declaration",
+      "Rule": "within 18 months of accepting the Final Connection Offer",
+      "Provision": "same decision, art. 7(1)"
+    },
+    {
+      "What": "Concentration limits",
+      "Rule": "250 MW per natural or legal person with its connected companies, 50 MW on the distribution network, and 500 MW in total of batteries until the end of 2029",
+      "Provision": "same decision, art. 5, as amended by Β΄ 5165/2025"
+    },
+    {
+      "What": "Support",
+      "Rule": "none: the stations receive no operating support and do not take part in support tenders",
+      "Provision": "same decision, arts. 1(3) and 3(2)(θ)"
+    }
+  ]
+}

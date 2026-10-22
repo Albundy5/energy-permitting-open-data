@@ -1,0 +1,59 @@
+{
+  "name": "Merchant battery storage in Greece: capacity caps by Region in group ΕΣΜΗΕ Γ΄",
+  "description": "The maximum injection capacity for Final Connection Offers to standalone storage in group ΕΣΜΗΕ Γ΄, per Region of the Greek interconnected system.",
+  "inLanguage": "en",
+  "source": "https://ariadnelabs.eu/guides/merchant-battery-storage-greece-grid-connection.html",
+  "dateModified": "2026-10-20",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": "Ariadne Labs",
+  "rows": [
+    {
+      "Region": "Eastern Macedonia and Thrace",
+      "Maximum capacity, ΕΣΜΗΕ Γ΄ (MW)": "250"
+    },
+    {
+      "Region": "Central Macedonia",
+      "Maximum capacity, ΕΣΜΗΕ Γ΄ (MW)": "400"
+    },
+    {
+      "Region": "Western Macedonia",
+      "Maximum capacity, ΕΣΜΗΕ Γ΄ (MW)": "425"
+    },
+    {
+      "Region": "Thessaly",
+      "Maximum capacity, ΕΣΜΗΕ Γ΄ (MW)": "250"
+    },
+    {
+      "Region": "Epirus",
+      "Maximum capacity, ΕΣΜΗΕ Γ΄ (MW)": "100"
+    },
+    {
+      "Region": "Western Greece",
+      "Maximum capacity, ΕΣΜΗΕ Γ΄ (MW)": "150"
+    },
+    {
+      "Region": "Central Greece",
+      "Maximum capacity, ΕΣΜΗΕ Γ΄ (MW)": "300"
+    },
+    {
+      "Region": "Peloponnese",
+      "Maximum capacity, ΕΣΜΗΕ Γ΄ (MW)": "400"
+    },
+    {
+      "Region": "Attica",
+      "Maximum capacity, ΕΣΜΗΕ Γ΄ (MW)": "100"
+    },
+    {
+      "Region": "Crete",
+      "Maximum capacity, ΕΣΜΗΕ Γ΄ (MW)": "200"
+    },
+    {
+      "Region": "South Aegean (interconnected Cyclades)",
+      "Maximum capacity, ΕΣΜΗΕ Γ΄ (MW)": "25"
+    },
+    {
+      "Region": "Ionian Islands",
+      "Maximum capacity, ΕΣΜΗΕ Γ΄ (MW)": "50"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Standalone battery storage in Greece: Standard Environmental Commitments decisions by Region",
+  "description": "Number of decisions including standalone storage stations under ΠΠΔ, and injection power in MW where the subject states it, by the Region that issued them.",
+  "inLanguage": "en",
+  "source": "https://ariadnelabs.eu/guides/greece-battery-storage-environmental-approvals.html",
+  "dateModified": "2026-10-21",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": "Ariadne Labs",
+  "rows": [
+    {
+      "Region": "Central Greece",
+      "Inclusion decisions": "122",
+      "Injection power (MW)": "4066"
+    },
+    {
+      "Region": "Central Macedonia",
+      "Inclusion decisions": "119",
+      "Injection power (MW)": "2212"
+    },
+    {
+      "Region": "Western Macedonia",
+      "Inclusion decisions": "105",
+      "Injection power (MW)": "2663"
+    },
+    {
+      "Region": "Thessaly",
+      "Inclusion decisions": "74",
+      "Injection power (MW)": "2035"
+    },
+    {
+      "Region": "Eastern Macedonia and Thrace",
+      "Inclusion decisions": "51",
+      "Injection power (MW)": "1727"
+    },
+    {
+      "Region": "Western Greece",
+      "Inclusion decisions": "30",
+      "Injection power (MW)": "661"
+    },
+    {
+      "Region": "Epirus",
+      "Inclusion decisions": "28",
+      "Injection power (MW)": "305"
+    },
+    {
+      "Region": "Peloponnese",
+      "Inclusion decisions": "26",
+      "Injection power (MW)": "624"
+    },
+    {
+      "Region": "Crete",
+      "Inclusion decisions": "19",
+      "Injection power (MW)": "479"
+    },
+    {
+      "Region": "Ionian Islands",
+      "Inclusion decisions": "10",
+      "Injection power (MW)": "46"
+    },
+    {
+      "Region": "South Aegean",
+      "Inclusion decisions": "2",
+      "Injection power (MW)": "50"
+    }
+  ]
+}

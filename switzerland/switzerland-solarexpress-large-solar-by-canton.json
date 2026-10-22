@@ -1,0 +1,46 @@
+{
+  "name": "Large solar plants under art. 71a of the Swiss Energy Act (Solarexpress): projects by canton",
+  "description": "Number of projects in the procedure or in operation, capacity in MW, annual production in GWh and number of projects with a legally binding approval or in operation, by host canton, from the SFOE dataset Photovoltaik-Grossanlagen.",
+  "inLanguage": "en",
+  "source": "https://ariadnelabs.eu/guides/solarexpress-switzerland-alpine-solar.html",
+  "dateModified": "2026-10-21",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": "Ariadne Labs",
+  "rows": [
+    {
+      "Canton": "Valais",
+      "Projects": "12",
+      "Capacity (MW)": "237.3",
+      "Annual production (GWh)": "374.8",
+      "of which legally approved or in operation (projects)": "0"
+    },
+    {
+      "Canton": "Graubünden",
+      "Projects": "9",
+      "Capacity (MW)": "124.7",
+      "Annual production (GWh)": "182.9",
+      "of which legally approved or in operation (projects)": "6"
+    },
+    {
+      "Canton": "Bern",
+      "Projects": "4",
+      "Capacity (MW)": "36.9",
+      "Annual production (GWh)": "50.3",
+      "of which legally approved or in operation (projects)": "0"
+    },
+    {
+      "Canton": "Ticino",
+      "Projects": "2",
+      "Capacity (MW)": "18.5",
+      "Annual production (GWh)": "26.6",
+      "of which legally approved or in operation (projects)": "0"
+    },
+    {
+      "Canton": "Uri",
+      "Projects": "1",
+      "Capacity (MW)": "8.0",
+      "Annual production (GWh)": "11.2",
+      "of which legally approved or in operation (projects)": "1"
+    }
+  ]
+}

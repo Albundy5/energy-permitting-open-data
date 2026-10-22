@@ -1,0 +1,46 @@
+{
+  "name": "Photovoltaik-Grossanlagen nach Art. 71a EnG (Solarexpress): Projekte nach Kanton",
+  "description": "Anzahl Projekte im Verfahren oder in Betrieb, Leistung in MW, Jahresproduktion in GWh und Anzahl rechtskräftig bewilligter oder in Betrieb stehender Projekte, nach Standortkanton, aus dem BFE-Datensatz Photovoltaik-Grossanlagen.",
+  "inLanguage": "de",
+  "source": "https://ariadnelabs.eu/de/leitfaeden/solarexpress-photovoltaik-grossanlagen.html",
+  "dateModified": "2026-10-21",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": "Ariadne Labs",
+  "rows": [
+    {
+      "Kanton": "Wallis",
+      "Projekte": "12",
+      "Leistung (MW)": "237.3",
+      "Jahresproduktion (GWh)": "374.8",
+      "davon rechtskräftig bewilligt oder in Betrieb (Projekte)": "0"
+    },
+    {
+      "Kanton": "Graubünden",
+      "Projekte": "9",
+      "Leistung (MW)": "124.7",
+      "Jahresproduktion (GWh)": "182.9",
+      "davon rechtskräftig bewilligt oder in Betrieb (Projekte)": "6"
+    },
+    {
+      "Kanton": "Bern",
+      "Projekte": "4",
+      "Leistung (MW)": "36.9",
+      "Jahresproduktion (GWh)": "50.3",
+      "davon rechtskräftig bewilligt oder in Betrieb (Projekte)": "0"
+    },
+    {
+      "Kanton": "Tessin",
+      "Projekte": "2",
+      "Leistung (MW)": "18.5",
+      "Jahresproduktion (GWh)": "26.6",
+      "davon rechtskräftig bewilligt oder in Betrieb (Projekte)": "0"
+    },
+    {
+      "Kanton": "Uri",
+      "Projekte": "1",
+      "Leistung (MW)": "8.0",
+      "Jahresproduktion (GWh)": "11.2",
+      "davon rechtskräftig bewilligt oder in Betrieb (Projekte)": "1"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Large solar plants under art. 71a of the Swiss Energy Act (Solarexpress): projects by stage",
+  "description": "Number of projects, capacity in MW and annual and winter production in GWh by the latest status the SFOE records for each project, from the SFOE dataset Photovoltaik-Grossanlagen.",
+  "inLanguage": "en",
+  "source": "https://ariadnelabs.eu/guides/solarexpress-switzerland-alpine-solar.html",
+  "dateModified": "2026-10-21",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": "Ariadne Labs",
+  "rows": [
+    {
+      "Status": "building application on public display",
+      "Projects": "11",
+      "Capacity (MW)": "256.7",
+      "Annual production (GWh)": "388.9",
+      "of which winter half-year (GWh)": "173.0"
+    },
+    {
+      "Status": "approved at first instance",
+      "Projects": "10",
+      "Capacity (MW)": "90.6",
+      "Annual production (GWh)": "141.2",
+      "of which winter half-year (GWh)": "57.5"
+    },
+    {
+      "Status": "approval legally binding",
+      "Projects": "3",
+      "Capacity (MW)": "32.1",
+      "Annual production (GWh)": "45.8",
+      "of which winter half-year (GWh)": "19.2"
+    },
+    {
+      "Status": "partly in operation",
+      "Projects": "4",
+      "Capacity (MW)": "46.1",
+      "Annual production (GWh)": "69.8",
+      "of which winter half-year (GWh)": "30.3"
+    },
+    {
+      "Status": "fully in operation",
+      "Projects": "0",
+      "Capacity (MW)": "0.0",
+      "Annual production (GWh)": "0.0",
+      "of which winter half-year (GWh)": "0.0"
+    },
+    {
+      "Status": "in operation for 3 years",
+      "Projects": "0",
+      "Capacity (MW)": "0.0",
+      "Annual production (GWh)": "0.0",
+      "of which winter half-year (GWh)": "0.0"
+    },
+    {
+      "Status": "withdrawn",
+      "Projects": "1",
+      "Capacity (MW)": "9.4",
+      "Annual production (GWh)": "12.0",
+      "of which winter half-year (GWh)": "5.3"
+    },
+    {
+      "Status": "rejected",
+      "Projects": "0",
+      "Capacity (MW)": "0.0",
+      "Annual production (GWh)": "0.0",
+      "of which winter half-year (GWh)": "0.0"
+    }
+  ]
+}

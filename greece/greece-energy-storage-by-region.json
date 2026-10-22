@@ -1,0 +1,89 @@
+{
+  "name": "Storage stations in ΡΑΑΕΥ's register by Greek Region",
+  "description": "Number of electricity storage stations, maximum injection power in GW and installed capacity in GWh per Greek Region, as recorded in the register on ΡΑΑΕΥ's geoportal.",
+  "inLanguage": "en",
+  "source": "https://ariadnelabs.eu/guides/greece-energy-storage-pipeline.html",
+  "dateModified": "2026-10-20",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": "Ariadne Labs",
+  "rows": [
+    {
+      "Region": "Central Greece",
+      "Stations": "341",
+      "Injection power (GW)": "15.6",
+      "Capacity (GWh)": "66.8"
+    },
+    {
+      "Region": "Western Macedonia",
+      "Stations": "235",
+      "Injection power (GW)": "12.1",
+      "Capacity (GWh)": "64.4"
+    },
+    {
+      "Region": "Central Macedonia",
+      "Stations": "235",
+      "Injection power (GW)": "8.4",
+      "Capacity (GWh)": "46.6"
+    },
+    {
+      "Region": "Thessaly",
+      "Stations": "187",
+      "Injection power (GW)": "7.7",
+      "Capacity (GWh)": "24.3"
+    },
+    {
+      "Region": "Eastern Macedonia and Thrace",
+      "Stations": "158",
+      "Injection power (GW)": "7.5",
+      "Capacity (GWh)": "34.2"
+    },
+    {
+      "Region": "Western Greece",
+      "Stations": "213",
+      "Injection power (GW)": "7.4",
+      "Capacity (GWh)": "45.1"
+    },
+    {
+      "Region": "Peloponnese",
+      "Stations": "78",
+      "Injection power (GW)": "3.7",
+      "Capacity (GWh)": "18.7"
+    },
+    {
+      "Region": "Epirus",
+      "Stations": "55",
+      "Injection power (GW)": "1.9",
+      "Capacity (GWh)": "7.0"
+    },
+    {
+      "Region": "Crete",
+      "Stations": "62",
+      "Injection power (GW)": "1.3",
+      "Capacity (GWh)": "4.6"
+    },
+    {
+      "Region": "Attica",
+      "Stations": "14",
+      "Injection power (GW)": "0.6",
+      "Capacity (GWh)": "1.9"
+    },
+    {
+      "Region": "Ionian Islands",
+      "Stations": "14",
+      "Injection power (GW)": "0.1",
+      "Capacity (GWh)": "0.3"
+    },
+    {
+      "Region": "South Aegean",
+      "Stations": "2",
+      "Injection power (GW)": "0.1",
+      "Capacity (GWh)": "0.1"
+    },
+    {
+      "Region": "Stations spanning two Regions",
+      "Stations": "4",
+      "Injection power (GW)": "0.2",
+      "Capacity (GWh)": "0.7"
+    }
+  ]
+}

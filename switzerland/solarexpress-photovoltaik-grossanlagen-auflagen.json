@@ -1,0 +1,56 @@
+{
+  "name": "Photovoltaik-Grossanlagen nach Art. 71a EnG (Solarexpress): öffentliche Auflagen nach Quartal",
+  "description": "Anzahl Projekte und heute gemeldete Leistung in MW nach dem Quartal der ersten öffentlichen Auflage des Baugesuchs, aus dem BFE-Datensatz Photovoltaik-Grossanlagen.",
+  "inLanguage": "de",
+  "source": "https://ariadnelabs.eu/de/leitfaeden/solarexpress-photovoltaik-grossanlagen.html",
+  "dateModified": "2026-10-21",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": "Ariadne Labs",
+  "rows": [
+    {
+      "Quartal der öffentlichen Auflage": "4. Quartal 2023",
+      "Projekte": "3",
+      "Leistung (MW)": "61.1"
+    },
+    {
+      "Quartal der öffentlichen Auflage": "1. Quartal 2024",
+      "Projekte": "5",
+      "Leistung (MW)": "51.7"
+    },
+    {
+      "Quartal der öffentlichen Auflage": "2. Quartal 2024",
+      "Projekte": "6",
+      "Leistung (MW)": "146.5"
+    },
+    {
+      "Quartal der öffentlichen Auflage": "3. Quartal 2024",
+      "Projekte": "2",
+      "Leistung (MW)": "19.4"
+    },
+    {
+      "Quartal der öffentlichen Auflage": "4. Quartal 2024",
+      "Projekte": "2",
+      "Leistung (MW)": "15.6"
+    },
+    {
+      "Quartal der öffentlichen Auflage": "1. Quartal 2025",
+      "Projekte": "2",
+      "Leistung (MW)": "16.5"
+    },
+    {
+      "Quartal der öffentlichen Auflage": "2. Quartal 2025",
+      "Projekte": "3",
+      "Leistung (MW)": "47.3"
+    },
+    {
+      "Quartal der öffentlichen Auflage": "3. Quartal 2025",
+      "Projekte": "1",
+      "Leistung (MW)": "6.2"
+    },
+    {
+      "Quartal der öffentlichen Auflage": "4. Quartal 2025",
+      "Projekte": "5",
+      "Leistung (MW)": "70.6"
+    }
+  ]
+}

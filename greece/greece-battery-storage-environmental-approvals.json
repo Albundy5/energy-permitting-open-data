@@ -1,0 +1,43 @@
+{
+  "name": "Standalone battery storage in Greece: decisions including stations under Standard Environmental Commitments, totals and size",
+  "description": "Number of decisions including standalone battery storage stations under Standard Environmental Commitments (ΠΠΔ) since 10 October 2024, by injection-power band, with amendments, revocations and renewable stations with storage, from Diavgeia.",
+  "inLanguage": "en",
+  "source": "https://ariadnelabs.eu/guides/greece-battery-storage-environmental-approvals.html",
+  "dateModified": "2026-10-21",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": "Ariadne Labs",
+  "rows": [
+    {
+      "Category": "Standalone storage station included under ΠΠΔ",
+      "Decisions": "586"
+    },
+    {
+      "Category": "of which: injection power below 1 MW",
+      "Decisions": "5"
+    },
+    {
+      "Category": "of which: 1 MW up to and including 10 MW",
+      "Decisions": "306"
+    },
+    {
+      "Category": "of which: above 10 MW",
+      "Decisions": "265"
+    },
+    {
+      "Category": "of which: no power in the subject",
+      "Decisions": "10"
+    },
+    {
+      "Category": "Amendment of an inclusion decision",
+      "Decisions": "19"
+    },
+    {
+      "Category": "Revocation of an inclusion decision",
+      "Decisions": "9"
+    },
+    {
+      "Category": "Renewable station with storage included (counted apart)",
+      "Decisions": "61"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+﻿Group,Which stations,Maximum capacity (MW)
+ΕΣΜΗΕ Α1΄,"a binding bilateral agreement of at least eight years with an energy-intensive industry, for the whole capacity; station above 10 MW",500
+ΕΣΜΗΕ Α2΄,a binding bilateral agreement of at least eight years with a business; station above 10 MW,100
+ΕΣΜΗΕ Α3΄,"the holder has an aggregator (ΦοΣΕ) licence, or is wholly owned by an aggregator, representing at least 100 MW of renewables; station of 10 to 100 MW and at most 10% of the renewables it represents",300
+ΕΣΜΗΕ Β΄,"stations in a Core Lignite Phase-out Zone, up to 100 MW per Core",250
+ΕΣΜΗΕ Γ΄,"all other transmission-connected stations, with a cap per Region","2,650"
+ΕΔΔΗΕ Α΄,distribution-connected stations above 5 MW,350
+ΕΔΔΗΕ Β΄,distribution-connected stations of 1 to 5 MW,150
+ΕΔΔΗΕ Γ΄,distribution-connected stations below 1 MW,150
+ΕΔΔΗΕ Δ΄,a binding bilateral agreement of at least eight years with a business; station up to and including 10 MW,250

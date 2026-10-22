@@ -1,0 +1,56 @@
+{
+  "name": "Merchant battery storage in Greece: project groups and maximum capacity",
+  "description": "The project groups of the Greek call for standalone storage on the transmission system (ΑΔΜΗΕ) and the distribution network (ΔΕΔΔΗΕ), with the eligibility criteria and the maximum injection capacity of each group.",
+  "inLanguage": "en",
+  "source": "https://ariadnelabs.eu/guides/merchant-battery-storage-greece-grid-connection.html",
+  "dateModified": "2026-10-20",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": "Ariadne Labs",
+  "rows": [
+    {
+      "Group": "ΕΣΜΗΕ Α1΄",
+      "Which stations": "a binding bilateral agreement of at least eight years with an energy-intensive industry, for the whole capacity; station above 10 MW",
+      "Maximum capacity (MW)": "500"
+    },
+    {
+      "Group": "ΕΣΜΗΕ Α2΄",
+      "Which stations": "a binding bilateral agreement of at least eight years with a business; station above 10 MW",
+      "Maximum capacity (MW)": "100"
+    },
+    {
+      "Group": "ΕΣΜΗΕ Α3΄",
+      "Which stations": "the holder has an aggregator (ΦοΣΕ) licence, or is wholly owned by an aggregator, representing at least 100 MW of renewables; station of 10 to 100 MW and at most 10% of the renewables it represents",
+      "Maximum capacity (MW)": "300"
+    },
+    {
+      "Group": "ΕΣΜΗΕ Β΄",
+      "Which stations": "stations in a Core Lignite Phase-out Zone, up to 100 MW per Core",
+      "Maximum capacity (MW)": "250"
+    },
+    {
+      "Group": "ΕΣΜΗΕ Γ΄",
+      "Which stations": "all other transmission-connected stations, with a cap per Region",
+      "Maximum capacity (MW)": "2,650"
+    },
+    {
+      "Group": "ΕΔΔΗΕ Α΄",
+      "Which stations": "distribution-connected stations above 5 MW",
+      "Maximum capacity (MW)": "350"
+    },
+    {
+      "Group": "ΕΔΔΗΕ Β΄",
+      "Which stations": "distribution-connected stations of 1 to 5 MW",
+      "Maximum capacity (MW)": "150"
+    },
+    {
+      "Group": "ΕΔΔΗΕ Γ΄",
+      "Which stations": "distribution-connected stations below 1 MW",
+      "Maximum capacity (MW)": "150"
+    },
+    {
+      "Group": "ΕΔΔΗΕ Δ΄",
+      "Which stations": "a binding bilateral agreement of at least eight years with a business; station up to and including 10 MW",
+      "Maximum capacity (MW)": "250"
+    }
+  ]
+}
