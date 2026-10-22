@@ -2,6 +2,8 @@
 
 Machine-readable copies of the tables published at [ariadnelabs.eu](https://ariadnelabs.eu/). Two kinds: reference tables that state public law (deadlines, guarantee amounts, grid connection priority rules, the rules for adding storage to solar plants, the regional implementation of Italy's aree idonee) with the provision each comes from; and counts computed from official registers and decisions (Greek battery storage requests and licences from ΑΔΜΗΕ's registers, Standard Environmental Commitments decisions for batteries from Diavgeia, large solar plants under art. 71a of the Swiss Energy Act from the SFOE). Every file names the guide page it was taken from; that page is the edition of record and carries the sources, the date the provisions were checked and the full explanation.
 
+The headline figure from each count, with its date and source, is on one page: [Energy permitting statistics: Greece, Italy and Switzerland](https://ariadnelabs.eu/guides/energy-permitting-statistics.html).
+
 ## Datasets
 
 | File | What it holds | Language | Rows | Source page |
