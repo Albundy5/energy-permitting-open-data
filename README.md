@@ -45,6 +45,10 @@ Machine-readable copies of the tables published at [ariadnelabs.eu](https://aria
 
 Each dataset comes as CSV (UTF-8 with BOM, so Excel opens Greek and accented text correctly) and as JSON. The JSON carries the name, description, language, source page, `dateModified` and licence, then one object per row keyed by the column headings. Where a table cites official texts, a final column lists their links.
 
+## Templates
+
+`templates/` holds a blank permit register for energy projects, in English, Greek, Italian and German, as Excel (`.xlsx`) and CSV: one row per permit or approval, with the legal basis, the event that starts the clock, the deadline, days left, owner, status, documents and the guarantee or contract tied to it. The Excel file works out the days left and colours deadlines under 90 and 30 days. The columns are explained at [ariadnelabs.eu/permit-register-template.html](https://ariadnelabs.eu/permit-register-template.html) (also in [Greek](https://ariadnelabs.eu/el/permit-register-template.html), [Italian](https://ariadnelabs.eu/it/permit-register-template.html) and [German](https://ariadnelabs.eu/de/permit-register-template.html)).
+
 ## How current it is
 
 The files are regenerated from the pages whenever a page or its figures change, and this repository is synced from them weekly. The counts follow their sources: the Greek storage figures move with each ΑΔΜΗΕ register edition, the battery decisions are recounted every Monday, and the Swiss figures change when the SFOE records a new project status. `dateModified` in each JSON file is the date of the guide's last substantive change. Laws change: before relying on a row, open the source page and the official text it cites. Only the official publication is authoritative.
