@@ -45,6 +45,15 @@ Machine-readable copies of the tables published at [ariadnelabs.eu](https://aria
 
 Each dataset comes as CSV (UTF-8 with BOM, so Excel opens Greek and accented text correctly) and as JSON. The JSON carries the name, description, language, source page, `dateModified` and licence, then one object per row keyed by the column headings. Where a table cites official texts, a final column lists their links.
 
+## Figures without files
+
+Two Italian series are published only as totals on their pages, without files here, because their sources reserve the rights to their content:
+
+- Capacity requesting connection to Terna's grid (renewables by source, storage and data centres, by region), from Terna's Econnextion statistics: [Grid connection requests to Terna in numbers](https://ariadnelabs.eu/guides/italy-grid-connection-requests-terna.html) (in Italian: [Richieste di connessione a Terna in numeri](https://ariadnelabs.eu/it/guide/connessioni-terna-in-numeri.html)).
+- National environmental impact assessments (VIA and PUA) still open for PNIEC-PNRR projects, by type of work, region, stage and year started, from the MASE environmental assessment portal: [Italy's PNIEC-PNRR environmental impact assessments in numbers](https://ariadnelabs.eu/guides/italy-environmental-impact-assessment-pniec-pnrr.html) (in Italian: [VIA dei progetti PNIEC-PNRR in numeri](https://ariadnelabs.eu/it/guide/via-pniec-in-numeri.html)).
+
+Quote these figures with a link to the page; they are not covered by the CC BY licence below.
+
 ## Templates
 
 `templates/` holds a blank permit register for energy projects, in English, Greek, Italian and German, as Excel (`.xlsx`) and CSV: one row per permit or approval, with the legal basis, the event that starts the clock, the deadline, days left, owner, status, documents and the guarantee or contract tied to it. The Excel file works out the days left and colours deadlines under 90 and 30 days. The columns are explained at [ariadnelabs.eu/permit-register-template.html](https://ariadnelabs.eu/permit-register-template.html) (also in [Greek](https://ariadnelabs.eu/el/permit-register-template.html), [Italian](https://ariadnelabs.eu/it/permit-register-template.html) and [German](https://ariadnelabs.eu/de/permit-register-template.html)).
