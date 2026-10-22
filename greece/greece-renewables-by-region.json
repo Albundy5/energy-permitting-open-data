@@ -1,0 +1,123 @@
+{
+  "name": "Solar PV, wind and renewable stations with storage in ΡΑΑΕΥ's register by Region",
+  "description": "Number of stations and capacity in GW per Greek Region for solar PV, wind and renewable stations with integrated storage, and the capacity that has moved beyond the first stage, as recorded in ΡΑΑΕΥ's register.",
+  "inLanguage": "en",
+  "source": "https://ariadnelabs.eu/guides/greece-renewables-licensing-pipeline.html",
+  "dateModified": "2026-10-22",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": "Ariadne Labs",
+  "rows": [
+    {
+      "Region": "Central Greece",
+      "Stations": "1,001",
+      "Solar PV (GW)": "5.7",
+      "Wind (GW)": "8.1",
+      "Renewables with storage (GW)": "3.3",
+      "Beyond the first stage (GW)": "4.3"
+    },
+    {
+      "Region": "Thessaly",
+      "Stations": "612",
+      "Solar PV (GW)": "8.6",
+      "Wind (GW)": "0.8",
+      "Renewables with storage (GW)": "5.5",
+      "Beyond the first stage (GW)": "1.2"
+    },
+    {
+      "Region": "Western Macedonia",
+      "Stations": "396",
+      "Solar PV (GW)": "8.2",
+      "Wind (GW)": "1.2",
+      "Renewables with storage (GW)": "2.4",
+      "Beyond the first stage (GW)": "5.0"
+    },
+    {
+      "Region": "Central Macedonia",
+      "Stations": "611",
+      "Solar PV (GW)": "4.3",
+      "Wind (GW)": "1.3",
+      "Renewables with storage (GW)": "4.3",
+      "Beyond the first stage (GW)": "1.6"
+    },
+    {
+      "Region": "Eastern Macedonia and Thrace",
+      "Stations": "471",
+      "Solar PV (GW)": "2.5",
+      "Wind (GW)": "4.7",
+      "Renewables with storage (GW)": "2.4",
+      "Beyond the first stage (GW)": "1.0"
+    },
+    {
+      "Region": "Peloponnese",
+      "Stations": "182",
+      "Solar PV (GW)": "0.8",
+      "Wind (GW)": "2.7",
+      "Renewables with storage (GW)": "0.8",
+      "Beyond the first stage (GW)": "1.7"
+    },
+    {
+      "Region": "Western Greece",
+      "Stations": "287",
+      "Solar PV (GW)": "1.6",
+      "Wind (GW)": "1.3",
+      "Renewables with storage (GW)": "1.3",
+      "Beyond the first stage (GW)": "0.9"
+    },
+    {
+      "Region": "Crete",
+      "Stations": "111",
+      "Solar PV (GW)": "0.0",
+      "Wind (GW)": "1.7",
+      "Renewables with storage (GW)": "0.4",
+      "Beyond the first stage (GW)": "0.2"
+    },
+    {
+      "Region": "Epirus",
+      "Stations": "95",
+      "Solar PV (GW)": "0.6",
+      "Wind (GW)": "0.8",
+      "Renewables with storage (GW)": "0.3",
+      "Beyond the first stage (GW)": "0.2"
+    },
+    {
+      "Region": "South Aegean",
+      "Stations": "53",
+      "Solar PV (GW)": "0.0",
+      "Wind (GW)": "1.5",
+      "Renewables with storage (GW)": "0.0",
+      "Beyond the first stage (GW)": "0.1"
+    },
+    {
+      "Region": "North Aegean",
+      "Stations": "60",
+      "Solar PV (GW)": "0.0",
+      "Wind (GW)": "0.7",
+      "Renewables with storage (GW)": "0.0",
+      "Beyond the first stage (GW)": "0.0"
+    },
+    {
+      "Region": "Attica",
+      "Stations": "43",
+      "Solar PV (GW)": "0.1",
+      "Wind (GW)": "0.4",
+      "Renewables with storage (GW)": "0.0",
+      "Beyond the first stage (GW)": "0.2"
+    },
+    {
+      "Region": "Ionian Islands",
+      "Stations": "9",
+      "Solar PV (GW)": "0.0",
+      "Wind (GW)": "0.1",
+      "Renewables with storage (GW)": "0.0",
+      "Beyond the first stage (GW)": "0.1"
+    },
+    {
+      "Region": "Stations spanning two Regions",
+      "Stations": "61",
+      "Solar PV (GW)": "1.8",
+      "Wind (GW)": "0.9",
+      "Renewables with storage (GW)": "0.9",
+      "Beyond the first stage (GW)": "1.2"
+    }
+  ]
+}

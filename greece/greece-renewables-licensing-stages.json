@@ -1,0 +1,46 @@
+{
+  "name": "Renewable stations in ΡΑΑΕΥ's register by technology and licensing stage",
+  "description": "Number of stations and capacity in GW by technology (solar PV, wind, renewables with integrated storage, hydro, other) and by the stage ΡΑΑΕΥ's register records: Producer Certificate or production licence, Installation Licence, Operation Licence.",
+  "inLanguage": "en",
+  "source": "https://ariadnelabs.eu/guides/greece-renewables-licensing-pipeline.html",
+  "dateModified": "2026-10-22",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": "Ariadne Labs",
+  "rows": [
+    {
+      "Technology": "Solar PV",
+      "Stations": "1,764",
+      "Producer Certificate or production licence (GW)": "25.1",
+      "Installation Licence (GW)": "6.2",
+      "Operation Licence (GW)": "2.9"
+    },
+    {
+      "Technology": "Wind",
+      "Stations": "1,564",
+      "Producer Certificate or production licence (GW)": "18.7",
+      "Installation Licence (GW)": "1.8",
+      "Operation Licence (GW)": "5.6"
+    },
+    {
+      "Technology": "Renewables with integrated storage",
+      "Stations": "664",
+      "Producer Certificate or production licence (GW)": "20.1",
+      "Installation Licence (GW)": "1.2",
+      "Operation Licence (GW)": "0.3"
+    },
+    {
+      "Technology": "Hydro",
+      "Stations": "571",
+      "Producer Certificate or production licence (GW)": "0.9",
+      "Installation Licence (GW)": "0.0",
+      "Operation Licence (GW)": "3.5"
+    },
+    {
+      "Technology": "Other (biomass, CHP, solar thermal, island hybrids)",
+      "Stations": "249",
+      "Producer Certificate or production licence (GW)": "1.2",
+      "Installation Licence (GW)": "0.1",
+      "Operation Licence (GW)": "0.3"
+    }
+  ]
+}

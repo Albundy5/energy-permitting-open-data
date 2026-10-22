@@ -1,0 +1,60 @@
+{
+  "name": "Renewable stations at the first stage of ΡΑΑΕΥ's register by year of issue",
+  "description": "Number of stations and capacity in GW of solar PV, wind and renewable stations with integrated storage that ΡΑΑΕΥ's register still records with a Producer Certificate or production licence, by year of the issue date.",
+  "inLanguage": "en",
+  "source": "https://ariadnelabs.eu/guides/greece-renewables-licensing-pipeline.html",
+  "dateModified": "2026-10-22",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": "Ariadne Labs",
+  "rows": [
+    {
+      "Year of issue": "2020 or earlier",
+      "Stations": "684",
+      "Solar PV (GW)": "3.1",
+      "Wind (GW)": "8.0",
+      "Renewables with storage (GW)": "1.8"
+    },
+    {
+      "Year of issue": "2021",
+      "Stations": "1,303",
+      "Solar PV (GW)": "17.3",
+      "Wind (GW)": "4.5",
+      "Renewables with storage (GW)": "9.7"
+    },
+    {
+      "Year of issue": "2022",
+      "Stations": "253",
+      "Solar PV (GW)": "3.3",
+      "Wind (GW)": "1.3",
+      "Renewables with storage (GW)": "3.6"
+    },
+    {
+      "Year of issue": "2023",
+      "Stations": "193",
+      "Solar PV (GW)": "0.9",
+      "Wind (GW)": "1.9",
+      "Renewables with storage (GW)": "2.7"
+    },
+    {
+      "Year of issue": "2024",
+      "Stations": "163",
+      "Solar PV (GW)": "0.4",
+      "Wind (GW)": "1.2",
+      "Renewables with storage (GW)": "1.3"
+    },
+    {
+      "Year of issue": "2025",
+      "Stations": "98",
+      "Solar PV (GW)": "0.1",
+      "Wind (GW)": "1.0",
+      "Renewables with storage (GW)": "0.7"
+    },
+    {
+      "Year of issue": "2026",
+      "Stations": "71",
+      "Solar PV (GW)": "0.0",
+      "Wind (GW)": "0.8",
+      "Renewables with storage (GW)": "0.4"
+    }
+  ]
+}
