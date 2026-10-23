@@ -1,0 +1,895 @@
+{
+  "name": "energy-permitting-open-data",
+  "title": "Energy permitting open data: Greece, Italy and Switzerland",
+  "description": "Machine-readable copies of the tables published at ariadnelabs.eu: reference tables that state public law on energy permitting, each with its provision, and counts computed from official registers and decisions. Every resource names the guide page it was taken from; that page is the edition of record.",
+  "homepage": "https://ariadnelabs.eu/guides/energy-permitting-statistics.html",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Ariadne Labs",
+      "path": "https://ariadnelabs.eu/",
+      "role": "author"
+    }
+  ],
+  "keywords": [
+    "energy permitting",
+    "renewable energy",
+    "battery storage",
+    "grid connection",
+    "Greece",
+    "Italy",
+    "Switzerland"
+  ],
+  "resources": [
+    {
+      "name": "adding-battery-storage-solar-greece-rules",
+      "path": "greece/adding-battery-storage-solar-greece-rules.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Adding a battery to a solar PV plant in Greece: the rules of article 11Γ of Law 4685/2020",
+      "description": "Which PV plants can add a battery, minimum capacity, payment, injection limits, permit amendments, the order of examination at ΑΔΜΗΕ and ΔΕΔΔΗΕ, the letter of guarantee and fire safety, with the provision for each.",
+      "sources": [
+        {
+          "title": "Adding battery storage to an existing solar PV plant in Greece: the rules",
+          "path": "https://ariadnelabs.eu/guides/adding-battery-storage-to-solar-pv-greece.html"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "ape-ana-perifereia",
+      "path": "greece/ape-ana-perifereia.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Φωτοβολταϊκοί, αιολικοί και σταθμοί ΑΠΕ με αποθήκευση στο μητρώο της ΡΑΑΕΥ ανά Περιφέρεια",
+      "description": "Αριθμός σταθμών και ισχύς σε GW ανά Περιφέρεια για φωτοβολταϊκούς, αιολικούς και σταθμούς ΑΠΕ με ενσωματωμένη αποθήκευση, και η ισχύς που έχει περάσει πέρα από το πρώτο στάδιο, όπως τους καταγράφει το μητρώο της ΡΑΑΕΥ.",
+      "sources": [
+        {
+          "title": "Αδειοδότηση ΑΠΕ στην Ελλάδα: πόσα GW βρίσκονται σε κάθε στάδιο",
+          "path": "https://ariadnelabs.eu/el/odigoi/adeiodotisi-ape-se-arithmous.html"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "ape-proto-stadio-ana-etos",
+      "path": "greece/ape-proto-stadio-ana-etos.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Σταθμοί ΑΠΕ στο πρώτο στάδιο του μητρώου της ΡΑΑΕΥ ανά έτος έκδοσης",
+      "description": "Αριθμός σταθμών και ισχύς σε GW φωτοβολταϊκών, αιολικών και σταθμών ΑΠΕ με ενσωματωμένη αποθήκευση που το μητρώο της ΡΑΑΕΥ καταγράφει ακόμη με Βεβαίωση Παραγωγού ή άδεια παραγωγής, ανά έτος της ημερομηνίας έκδοσης.",
+      "sources": [
+        {
+          "title": "Αδειοδότηση ΑΠΕ στην Ελλάδα: πόσα GW βρίσκονται σε κάθε στάδιο",
+          "path": "https://ariadnelabs.eu/el/odigoi/adeiodotisi-ape-se-arithmous.html"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "ape-stadia-adeiodotisis",
+      "path": "greece/ape-stadia-adeiodotisis.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Σταθμοί ΑΠΕ στο μητρώο της ΡΑΑΕΥ ανά τεχνολογία και στάδιο αδειοδότησης",
+      "description": "Αριθμός σταθμών και ισχύς σε GW ανά τεχνολογία (φωτοβολταϊκοί, αιολικοί, ΑΠΕ με ενσωματωμένη αποθήκευση, υδροηλεκτρικοί, λοιποί) και ανά στάδιο που καταγράφει το μητρώο της ΡΑΑΕΥ: Βεβαίωση Παραγωγού ή άδεια παραγωγής, Άδεια Εγκατάστασης, Άδεια Λειτουργίας.",
+      "sources": [
+        {
+          "title": "Αδειοδότηση ΑΠΕ στην Ελλάδα: πόσα GW βρίσκονται σε κάθε στάδιο",
+          "path": "https://ariadnelabs.eu/el/odigoi/adeiodotisi-ape-se-arithmous.html"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "apothikefsi-adme-mitrooa",
+      "path": "greece/apothikefsi-adme-mitrooa.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Σταθμοί αποθήκευσης με προσφορά σύνδεσης ή σε λειτουργία στο σύστημα μεταφοράς, ανά έκδοση του μητρώου του ΑΔΜΗΕ",
+      "description": "Αριθμός σταθμών αποθήκευσης, ισχύς έγχυσης και χωρητικότητα στα εξαμηνιαία μητρώα του ΑΔΜΗΕ για σταθμούς με προσφορά σύνδεσης ή σε λειτουργία, από τον Μάιο του 2024.",
+      "sources": [
+        {
+          "title": "Αποθήκευση ενέργειας στην Ελλάδα: η αδειοδότηση σε αριθμούς",
+          "path": "https://ariadnelabs.eu/el/odigoi/apothikefsi-se-arithmous.html"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "apothikefsi-ana-perifereia",
+      "path": "greece/apothikefsi-ana-perifereia.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Σταθμοί αποθήκευσης στο μητρώο της ΡΑΑΕΥ ανά Περιφέρεια",
+      "description": "Αριθμός σταθμών αποθήκευσης ηλεκτρικής ενέργειας, μέγιστη ισχύς έγχυσης σε GW και εγκατεστημένη χωρητικότητα σε GWh ανά Περιφέρεια, όπως τους καταγράφει το μητρώο της γεωπύλης της ΡΑΑΕΥ.",
+      "sources": [
+        {
+          "title": "Αποθήκευση ενέργειας στην Ελλάδα: η αδειοδότηση σε αριθμούς",
+          "path": "https://ariadnelabs.eu/el/odigoi/apothikefsi-se-arithmous.html"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "apothikefsi-stadia",
+      "path": "greece/apothikefsi-stadia.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Αποθήκευση ενέργειας στην Ελλάδα: σταθμοί ανά στάδιο αδειοδότησης και σύνδεσης",
+      "description": "Αριθμός σταθμών αποθήκευσης ηλεκτρικής ενέργειας, ισχύς έγχυσης και χωρητικότητα ανά στάδιο: άδεια αποθήκευσης στο μητρώο της ΡΑΑΕΥ, πλήρη αιτήματα σύνδεσης σε εκκρεμότητα στον ΑΔΜΗΕ, προσφορά σύνδεσης ή λειτουργία στο σύστημα μεταφοράς, με την πηγή και την ημερομηνία κάθε αριθμού.",
+      "sources": [
+        {
+          "title": "Αποθήκευση ενέργειας στην Ελλάδα: η αδειοδότηση σε αριθμούς",
+          "path": "https://ariadnelabs.eu/el/odigoi/apothikefsi-se-arithmous.html"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "engyitikes-epistoles-ape",
+      "path": "greece/engyitikes-epistoles-ape.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Εγγυητικές επιστολές στην αδειοδότηση ΑΠΕ και αποθήκευσης",
+      "description": "Το ύψος κάθε εγγυητικής επιστολής στη διαδρομή ενός σταθμού ΑΠΕ ή αποθήκευσης στην Ελλάδα, από τη Βεβαίωση Παραγωγού ως τους διαγωνισμούς της ΡΑΑΕΥ, πότε επιστρέφεται ή καταπίπτει και η διάταξη που την ορίζει.",
+      "sources": [
+        {
+          "title": "Εγγυητικές επιστολές στην αδειοδότηση ΑΠΕ και αποθήκευσης: ποιες, πόσο και πότε καταπίπτουν",
+          "path": "https://ariadnelabs.eu/el/odigoi/engyitikes-epistoles-ape.html"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "greece-battery-storage-environmental-approvals",
+      "path": "greece/greece-battery-storage-environmental-approvals.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Standalone battery storage in Greece: decisions including stations under Standard Environmental Commitments, totals and size",
+      "description": "Number of decisions including standalone battery storage stations under Standard Environmental Commitments (ΠΠΔ) since 10 October 2024, by injection-power band, with amendments, revocations and renewable stations with storage, from Diavgeia.",
+      "sources": [
+        {
+          "title": "Environmental approvals for battery storage in Greece: the decisions in numbers",
+          "path": "https://ariadnelabs.eu/guides/greece-battery-storage-environmental-approvals.html"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "greece-battery-storage-environmental-approvals-by-month",
+      "path": "greece/greece-battery-storage-environmental-approvals-by-month.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Standalone battery storage in Greece: Standard Environmental Commitments decisions by month",
+      "description": "Number of decisions including standalone storage stations under ΠΠΔ, and injection power in MW where the subject states it, by month of issue.",
+      "sources": [
+        {
+          "title": "Environmental approvals for battery storage in Greece: the decisions in numbers",
+          "path": "https://ariadnelabs.eu/guides/greece-battery-storage-environmental-approvals.html"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "greece-battery-storage-environmental-approvals-by-region",
+      "path": "greece/greece-battery-storage-environmental-approvals-by-region.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Standalone battery storage in Greece: Standard Environmental Commitments decisions by Region",
+      "description": "Number of decisions including standalone storage stations under ΠΠΔ, and injection power in MW where the subject states it, by the Region that issued them.",
+      "sources": [
+        {
+          "title": "Environmental approvals for battery storage in Greece: the decisions in numbers",
+          "path": "https://ariadnelabs.eu/guides/greece-battery-storage-environmental-approvals.html"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "greece-energy-storage-admie-registers",
+      "path": "greece/greece-energy-storage-admie-registers.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Storage stations with a connection offer or in operation on the Greek transmission system, by edition of ΑΔΜΗΕ's register",
+      "description": "Number of storage stations, injection power and capacity in ΑΔΜΗΕ's twice-yearly registers of stations with a connection offer or in operation, since May 2024.",
+      "sources": [
+        {
+          "title": "Energy storage in Greece: the licensing pipeline in numbers",
+          "path": "https://ariadnelabs.eu/guides/greece-energy-storage-pipeline.html"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "greece-energy-storage-by-region",
+      "path": "greece/greece-energy-storage-by-region.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Storage stations in ΡΑΑΕΥ's register by Greek Region",
+      "description": "Number of electricity storage stations, maximum injection power in GW and installed capacity in GWh per Greek Region, as recorded in the register on ΡΑΑΕΥ's geoportal.",
+      "sources": [
+        {
+          "title": "Energy storage in Greece: the licensing pipeline in numbers",
+          "path": "https://ariadnelabs.eu/guides/greece-energy-storage-pipeline.html"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "greece-energy-storage-pipeline",
+      "path": "greece/greece-energy-storage-pipeline.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Energy storage in Greece: stations by licensing and connection stage",
+      "description": "Number of electricity storage stations, injection power and capacity at each stage: storage licence in ΡΑΑΕΥ's register, complete connection requests pending at ΑΔΜΗΕ, and a connection offer or operation on the transmission system, with the source and date of every figure.",
+      "sources": [
+        {
+          "title": "Energy storage in Greece: the licensing pipeline in numbers",
+          "path": "https://ariadnelabs.eu/guides/greece-energy-storage-pipeline.html"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "greece-renewables-by-region",
+      "path": "greece/greece-renewables-by-region.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Solar PV, wind and renewable stations with storage in ΡΑΑΕΥ's register by Region",
+      "description": "Number of stations and capacity in GW per Greek Region for solar PV, wind and renewable stations with integrated storage, and the capacity that has moved beyond the first stage, as recorded in ΡΑΑΕΥ's register.",
+      "sources": [
+        {
+          "title": "Renewables licensing in Greece: how many GW sit at each stage",
+          "path": "https://ariadnelabs.eu/guides/greece-renewables-licensing-pipeline.html"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "greece-renewables-first-stage-by-year",
+      "path": "greece/greece-renewables-first-stage-by-year.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Renewable stations at the first stage of ΡΑΑΕΥ's register by year of issue",
+      "description": "Number of stations and capacity in GW of solar PV, wind and renewable stations with integrated storage that ΡΑΑΕΥ's register still records with a Producer Certificate or production licence, by year of the issue date.",
+      "sources": [
+        {
+          "title": "Renewables licensing in Greece: how many GW sit at each stage",
+          "path": "https://ariadnelabs.eu/guides/greece-renewables-licensing-pipeline.html"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "greece-renewables-licensing-stages",
+      "path": "greece/greece-renewables-licensing-stages.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Renewable stations in ΡΑΑΕΥ's register by technology and licensing stage",
+      "description": "Number of stations and capacity in GW by technology (solar PV, wind, renewables with integrated storage, hydro, other) and by the stage ΡΑΑΕΥ's register records: Producer Certificate or production licence, Installation Licence, Operation Licence.",
+      "sources": [
+        {
+          "title": "Renewables licensing in Greece: how many GW sit at each stage",
+          "path": "https://ariadnelabs.eu/guides/greece-renewables-licensing-pipeline.html"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "grid-connection-priority-groups-greece",
+      "path": "greece/grid-connection-priority-groups-greece.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Grid connection priority groups in Greece",
+      "description": "How connection requests for renewable and storage stations are ranked at ΑΔΜΗΕ and ΔΕΔΔΗΕ: the decision in force, the groups, the order within a group and the separate storage tracks, each with its provision.",
+      "sources": [
+        {
+          "title": "Priority groups: the order in which Greek Final Connection Offers are granted",
+          "path": "https://ariadnelabs.eu/guides/grid-connection-priority-groups-greece.html"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "imerologio-adeiodotisis-ape",
+      "path": "greece/imerologio-adeiodotisis-ape.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Προθεσμίες αδειοδότησης ΑΠΕ στην Ελλάδα",
+      "description": "Οι κύκλοι υποβολής για Βεβαίωση Παραγωγού, οι προθεσμίες για συμπληρωματικά στοιχεία και η ισχύς της Οριστικής Προσφοράς Σύνδεσης, της ΑΕΠΟ και της Άδειας Εγκατάστασης, με τη διάταξη και το ΦΕΚ που ορίζει καθεμιά.",
+      "sources": [
+        {
+          "title": "Το ημερολόγιο της αδειοδότησης ΑΠΕ στην Ελλάδα",
+          "path": "https://ariadnelabs.eu/el/odigoi/imerologio-adeiodotisis-ape.html"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "letters-of-guarantee-renewables-greece",
+      "path": "greece/letters-of-guarantee-renewables-greece.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Letters of guarantee in Greek renewables and storage permitting",
+      "description": "The amount of each letter of guarantee on the route of a renewable or storage station in Greece, from the Producer Certificate to the ΡΑΑΕΥ tenders, when it is returned or forfeited, and the provision that sets it.",
+      "sources": [
+        {
+          "title": "Letters of guarantee in Greek renewables permitting: which, how much and when they are forfeited",
+          "path": "https://ariadnelabs.eu/guides/letters-of-guarantee-renewables-greece.html"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "merchant-apothikefsi-kanones",
+      "path": "greece/merchant-apothikefsi-kanones.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Merchant σταθμοί αποθήκευσης: οι κανόνες της πρόσκλησης για Οριστική Προσφορά Σύνδεσης",
+      "description": "Όρια ισχύος, αρμόδιος Διαχειριστής, προθεσμία, τεχνικές απαιτήσεις, οικονομική επάρκεια, εγγυητικές επιστολές, δήλωση ετοιμότητας και όρια αντισυγκέντρωσης της ΥΠΕΝ/ΓΔΕ/28255/1143/2025 για μεμονωμένους σταθμούς αποθήκευσης με μπαταρίες, με τη διάταξη για καθέναν.",
+      "sources": [
+        {
+          "title": "Merchant μπαταρίες (BESS): πώς παίρνουν Οριστική Προσφορά Σύνδεσης",
+          "path": "https://ariadnelabs.eu/el/odigoi/merchant-apothikefsi-prosklisi.html"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "merchant-apothikefsi-omades",
+      "path": "greece/merchant-apothikefsi-omades.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Merchant σταθμοί αποθήκευσης: ομάδες έργων και μέγιστη ισχύς",
+      "description": "Οι ομάδες έργων της πρόσκλησης για μεμονωμένους σταθμούς αποθήκευσης στο Σύστημα (ΑΔΜΗΕ) και στο Δίκτυο (ΔΕΔΔΗΕ), με τα κριτήρια ένταξης και τη μέγιστη ισχύ έγχυσης κάθε ομάδας.",
+      "sources": [
+        {
+          "title": "Merchant μπαταρίες (BESS): πώς παίρνουν Οριστική Προσφορά Σύνδεσης",
+          "path": "https://ariadnelabs.eu/el/odigoi/merchant-apothikefsi-prosklisi.html"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "merchant-apothikefsi-perifereies",
+      "path": "greece/merchant-apothikefsi-perifereies.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Merchant σταθμοί αποθήκευσης: όρια ισχύος ανά Περιφέρεια στην ομάδα ΕΣΜΗΕ Γ΄",
+      "description": "Η μέγιστη ισχύς έγχυσης για Οριστικές Προσφορές Σύνδεσης μεμονωμένων σταθμών αποθήκευσης της ομάδας ΕΣΜΗΕ Γ΄ ανά Περιφέρεια του Διασυνδεδεμένου Συστήματος.",
+      "sources": [
+        {
+          "title": "Merchant μπαταρίες (BESS): πώς παίρνουν Οριστική Προσφορά Σύνδεσης",
+          "path": "https://ariadnelabs.eu/el/odigoi/merchant-apothikefsi-prosklisi.html"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "merchant-battery-storage-greece-groups",
+      "path": "greece/merchant-battery-storage-greece-groups.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Merchant battery storage in Greece: project groups and maximum capacity",
+      "description": "The project groups of the Greek call for standalone storage on the transmission system (ΑΔΜΗΕ) and the distribution network (ΔΕΔΔΗΕ), with the eligibility criteria and the maximum injection capacity of each group.",
+      "sources": [
+        {
+          "title": "Merchant battery storage in Greece: how standalone BESS get a Final Connection Offer",
+          "path": "https://ariadnelabs.eu/guides/merchant-battery-storage-greece-grid-connection.html"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "merchant-battery-storage-greece-regions",
+      "path": "greece/merchant-battery-storage-greece-regions.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Merchant battery storage in Greece: capacity caps by Region in group ΕΣΜΗΕ Γ΄",
+      "description": "The maximum injection capacity for Final Connection Offers to standalone storage in group ΕΣΜΗΕ Γ΄, per Region of the Greek interconnected system.",
+      "sources": [
+        {
+          "title": "Merchant battery storage in Greece: how standalone BESS get a Final Connection Offer",
+          "path": "https://ariadnelabs.eu/guides/merchant-battery-storage-greece-grid-connection.html"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "merchant-battery-storage-greece-rules",
+      "path": "greece/merchant-battery-storage-greece-rules.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Merchant battery storage in Greece: the rules of the call for a Final Connection Offer",
+      "description": "Capacity caps, competent operator, deadline, technical requirements, financial capability, letters of guarantee, readiness declaration and concentration limits of ministerial decision ΥΠΕΝ/ΓΔΕ/28255/1143/2025 for standalone battery storage, each with its provision.",
+      "sources": [
+        {
+          "title": "Merchant battery storage in Greece: how standalone BESS get a Final Connection Offer",
+          "path": "https://ariadnelabs.eu/guides/merchant-battery-storage-greece-grid-connection.html"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "omades-proteraiotitas-syndesis",
+      "path": "greece/omades-proteraiotitas-syndesis.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Ομάδες προτεραιότητας σύνδεσης στο δίκτυο, Ελλάδα",
+      "description": "Πώς κατατάσσονται τα αιτήματα σύνδεσης σταθμών ΑΠΕ και αποθήκευσης στον ΑΔΜΗΕ και στον ΔΕΔΔΗΕ: η απόφαση που ισχύει, οι ομάδες, η σειρά μέσα σε κάθε ομάδα και οι χωριστές διαδρομές της αποθήκευσης, με τη διάταξη για καθεμιά.",
+      "sources": [
+        {
+          "title": "Ομάδες προτεραιότητας ΑΔΜΗΕ και ΔΕΔΔΗΕ: με ποια σειρά δίνονται οι Οριστικές Προσφορές Σύνδεσης",
+          "path": "https://ariadnelabs.eu/el/odigoi/omades-proteraiotitas-syndesis.html"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "ppd-mpatarion-ana-mina",
+      "path": "greece/ppd-mpatarion-ana-mina.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Αποφάσεις υπαγωγής μπαταριών σε Πρότυπες Περιβαλλοντικές Δεσμεύσεις ανά μήνα",
+      "description": "Πλήθος αποφάσεων υπαγωγής μεμονωμένων σταθμών αποθήκευσης σε ΠΠΔ και ισχύς έγχυσης σε MW, όπου την αναφέρει το θέμα, ανά μήνα έκδοσης.",
+      "sources": [
+        {
+          "title": "ΠΠΔ για μπαταρίες: πόσες αποφάσεις υπαγωγής εκδόθηκαν, ανά μήνα και Περιφέρεια",
+          "path": "https://ariadnelabs.eu/el/odigoi/ppd-mpatarion-se-arithmous.html"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "ppd-mpatarion-ana-perifereia",
+      "path": "greece/ppd-mpatarion-ana-perifereia.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Αποφάσεις υπαγωγής μπαταριών σε Πρότυπες Περιβαλλοντικές Δεσμεύσεις ανά Περιφέρεια",
+      "description": "Πλήθος αποφάσεων υπαγωγής μεμονωμένων σταθμών αποθήκευσης σε ΠΠΔ και ισχύς έγχυσης σε MW, όπου την αναφέρει το θέμα, ανά Περιφέρεια που εξέδωσε την απόφαση.",
+      "sources": [
+        {
+          "title": "ΠΠΔ για μπαταρίες: πόσες αποφάσεις υπαγωγής εκδόθηκαν, ανά μήνα και Περιφέρεια",
+          "path": "https://ariadnelabs.eu/el/odigoi/ppd-mpatarion-se-arithmous.html"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "ppd-mpatarion-synolo",
+      "path": "greece/ppd-mpatarion-synolo.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Αποφάσεις υπαγωγής μεμονωμένων σταθμών αποθήκευσης σε Πρότυπες Περιβαλλοντικές Δεσμεύσεις: σύνολα και μέγεθος",
+      "description": "Πλήθος αποφάσεων υπαγωγής σε ΠΠΔ για μεμονωμένους σταθμούς αποθήκευσης με μπαταρίες από τις 10 Οκτωβρίου 2024, ανά κλίμακα ισχύος έγχυσης, μαζί με τις τροποποιήσεις, τις ανακλήσεις και τους σταθμούς ΑΠΕ με αποθήκευση, από τη Διαύγεια.",
+      "sources": [
+        {
+          "title": "ΠΠΔ για μπαταρίες: πόσες αποφάσεις υπαγωγής εκδόθηκαν, ανά μήνα και Περιφέρεια",
+          "path": "https://ariadnelabs.eu/el/odigoi/ppd-mpatarion-se-arithmous.html"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "prosthiki-mpatarias-11a-11b",
+      "path": "greece/prosthiki-mpatarias-11a-11b.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Φωτοβολταϊκό με μπαταρία: φόρτιση μόνο από το φωτοβολταϊκό (παρ. 11Α) ή και από το δίκτυο (παρ. 11Β)",
+      "description": "Οι διαφορές των δύο τύπων σταθμού με ενσωματωμένη αποθήκευση του άρθρου 10 του ν. 4685/2020: φόρτιση από το δίκτυο, πράξη αδειοδότησης, περιορισμός έγχυσης, βάση της εγγυητικής επιστολής και όριο ισχύος ανά όμιλο.",
+      "sources": [
+        {
+          "title": "Προσθήκη μπαταρίας σε υφιστάμενο φωτοβολταϊκό: τι ισχύει σήμερα",
+          "path": "https://ariadnelabs.eu/el/odigoi/prosthiki-mpatarias-se-fotovoltaiko.html"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "prosthiki-mpatarias-kanones",
+      "path": "greece/prosthiki-mpatarias-kanones.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Προσθήκη μπαταρίας σε φωτοβολταϊκό: οι κανόνες του άρθρου 11Γ του ν. 4685/2020",
+      "description": "Ποια φωτοβολταϊκά μπορούν να προσθέσουν μπαταρία, ελάχιστη χωρητικότητα, αμοιβή, περιορισμοί έγχυσης, τροποποίηση αδειών, σειρά εξέτασης σε ΑΔΜΗΕ και ΔΕΔΔΗΕ, εγγυητική επιστολή και πυρασφάλεια, με τη διάταξη για καθέναν.",
+      "sources": [
+        {
+          "title": "Προσθήκη μπαταρίας σε υφιστάμενο φωτοβολταϊκό: τι ισχύει σήμερα",
+          "path": "https://ariadnelabs.eu/el/odigoi/prosthiki-mpatarias-se-fotovoltaiko.html"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "renewables-permitting-calendar-greece",
+      "path": "greece/renewables-permitting-calendar-greece.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Renewables permitting deadlines in Greece",
+      "description": "Producer Certificate filing cycles, deadlines for supplementary information, and the validity of the Final Connection Offer, the environmental terms decision (ΑΕΠΟ) and the Installation Licence, each with the provision that sets it.",
+      "sources": [
+        {
+          "title": "The renewables permitting calendar in Greece",
+          "path": "https://ariadnelabs.eu/guides/renewables-permitting-calendar-greece.html"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "solar-battery-greece-11a-vs-11b",
+      "path": "greece/solar-battery-greece-11a-vs-11b.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Solar PV with a battery in Greece: charging from the PV only (par. 11A) or also from the grid (par. 11B)",
+      "description": "How the two types of station with integrated storage in article 10 of Law 4685/2020 differ: charging from the grid, licensing act, injection limit, basis of the letter of guarantee and the cap per group.",
+      "sources": [
+        {
+          "title": "Adding battery storage to an existing solar PV plant in Greece: the rules",
+          "path": "https://ariadnelabs.eu/guides/adding-battery-storage-to-solar-pv-greece.html"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "aree-idonee-by-region-italy",
+      "path": "italy/aree-idonee-by-region-italy.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Aree idonee: implementation status in the Italian regions",
+      "description": "For each Italian region and autonomous province, the state of regional aree idonee implementation after Law 4/2026: verified law, bill under examination or not established, with the act, its publication, entry into force and a link to the official source.",
+      "sources": [
+        {
+          "title": "Aree idonee, region by region",
+          "path": "https://ariadnelabs.eu/guides/aree-idonee-by-region-italy.html"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "aree-idonee-regioni",
+      "path": "italy/aree-idonee-regioni.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Aree idonee: stato di attuazione nelle regioni italiane",
+      "description": "Per ogni regione e provincia autonoma, lo stato dell'attuazione regionale delle aree idonee dopo la Legge 4/2026: legge verificata, proposta in esame o non accertato, con l'atto, la pubblicazione, l'entrata in vigore e il link alla fonte ufficiale.",
+      "sources": [
+        {
+          "title": "Aree idonee, regione per regione",
+          "path": "https://ariadnelabs.eu/it/guide/aree-idonee-regioni.html"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "solarexpress-photovoltaik-grossanlagen-auflagen",
+      "path": "switzerland/solarexpress-photovoltaik-grossanlagen-auflagen.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Photovoltaik-Grossanlagen nach Art. 71a EnG (Solarexpress): öffentliche Auflagen nach Quartal",
+      "description": "Anzahl Projekte und heute gemeldete Leistung in MW nach dem Quartal der ersten öffentlichen Auflage des Baugesuchs, aus dem BFE-Datensatz Photovoltaik-Grossanlagen.",
+      "sources": [
+        {
+          "title": "Solarexpress: Wo die Photovoltaik-Grossanlagen nach Art. 71a EnG stehen",
+          "path": "https://ariadnelabs.eu/de/leitfaeden/solarexpress-photovoltaik-grossanlagen.html"
+        },
+        {
+          "title": "SFOE dataset ch.bfe.photovoltaik-grossanlagen (opendata.swiss terms BY: open use, source to be named)",
+          "path": "https://data.geo.admin.ch/browser/#/collections/ch.bfe.photovoltaik-grossanlagen"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "solarexpress-photovoltaik-grossanlagen-kantone",
+      "path": "switzerland/solarexpress-photovoltaik-grossanlagen-kantone.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Photovoltaik-Grossanlagen nach Art. 71a EnG (Solarexpress): Projekte nach Kanton",
+      "description": "Anzahl Projekte im Verfahren oder in Betrieb, Leistung in MW, Jahresproduktion in GWh und Anzahl rechtskräftig bewilligter oder in Betrieb stehender Projekte, nach Standortkanton, aus dem BFE-Datensatz Photovoltaik-Grossanlagen.",
+      "sources": [
+        {
+          "title": "Solarexpress: Wo die Photovoltaik-Grossanlagen nach Art. 71a EnG stehen",
+          "path": "https://ariadnelabs.eu/de/leitfaeden/solarexpress-photovoltaik-grossanlagen.html"
+        },
+        {
+          "title": "SFOE dataset ch.bfe.photovoltaik-grossanlagen (opendata.swiss terms BY: open use, source to be named)",
+          "path": "https://data.geo.admin.ch/browser/#/collections/ch.bfe.photovoltaik-grossanlagen"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "solarexpress-photovoltaik-grossanlagen-verfahrensstand",
+      "path": "switzerland/solarexpress-photovoltaik-grossanlagen-verfahrensstand.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Photovoltaik-Grossanlagen nach Art. 71a EnG (Solarexpress): Projekte nach Verfahrensstand",
+      "description": "Anzahl Projekte, Leistung in MW sowie Jahres- und Winterproduktion in GWh nach dem jüngsten Status, den das BFE zu jedem Projekt führt, aus dem BFE-Datensatz Photovoltaik-Grossanlagen.",
+      "sources": [
+        {
+          "title": "Solarexpress: Wo die Photovoltaik-Grossanlagen nach Art. 71a EnG stehen",
+          "path": "https://ariadnelabs.eu/de/leitfaeden/solarexpress-photovoltaik-grossanlagen.html"
+        },
+        {
+          "title": "SFOE dataset ch.bfe.photovoltaik-grossanlagen (opendata.swiss terms BY: open use, source to be named)",
+          "path": "https://data.geo.admin.ch/browser/#/collections/ch.bfe.photovoltaik-grossanlagen"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "switzerland-solarexpress-large-solar-by-canton",
+      "path": "switzerland/switzerland-solarexpress-large-solar-by-canton.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Large solar plants under art. 71a of the Swiss Energy Act (Solarexpress): projects by canton",
+      "description": "Number of projects in the procedure or in operation, capacity in MW, annual production in GWh and number of projects with a legally binding approval or in operation, by host canton, from the SFOE dataset Photovoltaik-Grossanlagen.",
+      "sources": [
+        {
+          "title": "Solarexpress: where Switzerland's large solar projects under art. 71a stand",
+          "path": "https://ariadnelabs.eu/guides/solarexpress-switzerland-alpine-solar.html"
+        },
+        {
+          "title": "SFOE dataset ch.bfe.photovoltaik-grossanlagen (opendata.swiss terms BY: open use, source to be named)",
+          "path": "https://data.geo.admin.ch/browser/#/collections/ch.bfe.photovoltaik-grossanlagen"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "switzerland-solarexpress-large-solar-by-quarter",
+      "path": "switzerland/switzerland-solarexpress-large-solar-by-quarter.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Large solar plants under art. 71a of the Swiss Energy Act (Solarexpress): public displays by quarter",
+      "description": "Number of projects and currently reported capacity in MW by the quarter in which the building application was first put on public display, from the SFOE dataset Photovoltaik-Grossanlagen.",
+      "sources": [
+        {
+          "title": "Solarexpress: where Switzerland's large solar projects under art. 71a stand",
+          "path": "https://ariadnelabs.eu/guides/solarexpress-switzerland-alpine-solar.html"
+        },
+        {
+          "title": "SFOE dataset ch.bfe.photovoltaik-grossanlagen (opendata.swiss terms BY: open use, source to be named)",
+          "path": "https://data.geo.admin.ch/browser/#/collections/ch.bfe.photovoltaik-grossanlagen"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "switzerland-solarexpress-large-solar-by-stage",
+      "path": "switzerland/switzerland-solarexpress-large-solar-by-stage.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Large solar plants under art. 71a of the Swiss Energy Act (Solarexpress): projects by stage",
+      "description": "Number of projects, capacity in MW and annual and winter production in GWh by the latest status the SFOE records for each project, from the SFOE dataset Photovoltaik-Grossanlagen.",
+      "sources": [
+        {
+          "title": "Solarexpress: where Switzerland's large solar projects under art. 71a stand",
+          "path": "https://ariadnelabs.eu/guides/solarexpress-switzerland-alpine-solar.html"
+        },
+        {
+          "title": "SFOE dataset ch.bfe.photovoltaik-grossanlagen (opendata.swiss terms BY: open use, source to be named)",
+          "path": "https://data.geo.admin.ch/browser/#/collections/ch.bfe.photovoltaik-grossanlagen"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    }
+  ]
+}

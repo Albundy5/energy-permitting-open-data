@@ -4,6 +4,8 @@ Machine-readable copies of the tables published at [ariadnelabs.eu](https://aria
 
 The headline figure from each count, with its date and source, is on one page: [Energy permitting statistics: Greece, Italy and Switzerland](https://ariadnelabs.eu/guides/energy-permitting-statistics.html).
 
+`datapackage.json` lists every table as a [Frictionless Data Package](https://specs.frictionlessdata.io/data-package/) resource with its source page and licence, so data tools can load them all at once; `CITATION.cff` holds the citation GitHub shows under "Cite this repository".
+
 ## Datasets
 
 | File | What it holds | Language | Rows | Source page |

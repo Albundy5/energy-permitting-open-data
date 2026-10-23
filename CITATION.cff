@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you reuse these tables, cite them as below and link the source page named in each file."
+type: dataset
+title: "Energy permitting open data: Greece, Italy and Switzerland"
+abstract: "Machine-readable copies of the tables published at ariadnelabs.eu: reference tables that state public law on energy permitting (deadlines, guarantee amounts, grid connection priority rules, adding storage to solar plants, Italy's aree idonee by region), each with its provision, and counts computed from official registers and decisions (ΡΑΑΕΥ, ΑΔΜΗΕ, Diavgeia, SFOE)."
+authors:
+  - name: "Ariadne Labs"
+    website: "https://ariadnelabs.eu/"
+repository-code: "https://github.com/Albundy5/energy-permitting-open-data"
+url: "https://ariadnelabs.eu/guides/energy-permitting-statistics.html"
+license: CC-BY-4.0
+keywords:
+  - energy permitting
+  - renewable energy
+  - battery storage
+  - grid connection
+  - Greece
+  - Italy
+  - Switzerland
+  - open data
