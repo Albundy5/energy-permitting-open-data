@@ -68,6 +68,26 @@
       ]
     },
     {
+      "name": "ape-anakliseis-ana-etos",
+      "path": "greece/ape-anakliseis-ana-etos.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Άδειες παραγωγής και Βεβαιώσεις Παραγωγού σταθμών ΑΠΕ που ανακλήθηκαν ή έπαψαν να ισχύουν, ανά έτος απόφασης",
+      "description": "Αριθμός αδειών παραγωγής και Βεβαιώσεων Παραγωγού σταθμών ΑΠΕ που το μηνιαίο μητρώο της ΡΑΑΕΥ καταγράφει ως ανακληθείσες, ληγμένες ή παυθείσες, και η ισχύς τους σε GW για φωτοβολταϊκούς, αιολικούς και λοιπούς σταθμούς, ανά έτος της απόφασης.",
+      "sources": [
+        {
+          "title": "Αδειοδότηση ΑΠΕ στην Ελλάδα: πόσα GW βρίσκονται σε κάθε στάδιο",
+          "path": "https://ariadnelabs.eu/el/odigoi/adeiodotisi-ape-se-arithmous.html"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
       "name": "ape-proto-stadio-ana-etos",
       "path": "greece/ape-proto-stadio-ana-etos.csv",
       "format": "csv",
@@ -354,6 +374,26 @@
       "mediatype": "text/csv",
       "title": "Renewable stations in ΡΑΑΕΥ's register by technology and licensing stage",
       "description": "Number of stations and capacity in GW by technology (solar PV, wind, renewables with integrated storage, hydro, other) and by the stage ΡΑΑΕΥ's register records: Producer Certificate or production licence, Installation Licence, Operation Licence.",
+      "sources": [
+        {
+          "title": "Renewables licensing in Greece: how many GW sit at each stage",
+          "path": "https://ariadnelabs.eu/guides/greece-renewables-licensing-pipeline.html"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "name": "greece-renewables-revoked-by-year",
+      "path": "greece/greece-renewables-revoked-by-year.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Renewable production licences and Producer Certificates revoked or lapsed in Greece, by year of the decision",
+      "description": "Number of production licences and Producer Certificates for renewable stations that ΡΑΑΕΥ's monthly register lists as revoked, expired or otherwise no longer valid, and their capacity in GW for solar PV, wind and other technologies, by year of the decision.",
       "sources": [
         {
           "title": "Renewables licensing in Greece: how many GW sit at each stage",

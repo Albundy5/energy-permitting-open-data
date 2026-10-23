@@ -3,7 +3,7 @@
   "description": "Αριθμός σταθμών και ισχύς σε GW ανά Περιφέρεια για φωτοβολταϊκούς, αιολικούς και σταθμούς ΑΠΕ με ενσωματωμένη αποθήκευση, και η ισχύς που έχει περάσει πέρα από το πρώτο στάδιο, όπως τους καταγράφει το μητρώο της ΡΑΑΕΥ.",
   "inLanguage": "el",
   "source": "https://ariadnelabs.eu/el/odigoi/adeiodotisi-ape-se-arithmous.html",
-  "dateModified": "2026-10-22",
+  "dateModified": "2026-10-23",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Ariadne Labs",
   "rows": [

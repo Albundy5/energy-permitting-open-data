@@ -3,7 +3,7 @@
   "description": "Αριθμός σταθμών και ισχύς σε GW φωτοβολταϊκών, αιολικών και σταθμών ΑΠΕ με ενσωματωμένη αποθήκευση που το μητρώο της ΡΑΑΕΥ καταγράφει ακόμη με Βεβαίωση Παραγωγού ή άδεια παραγωγής, ανά έτος της ημερομηνίας έκδοσης.",
   "inLanguage": "el",
   "source": "https://ariadnelabs.eu/el/odigoi/adeiodotisi-ape-se-arithmous.html",
-  "dateModified": "2026-10-22",
+  "dateModified": "2026-10-23",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Ariadne Labs",
   "rows": [

@@ -1,0 +1,60 @@
+{
+  "name": "Renewable production licences and Producer Certificates revoked or lapsed in Greece, by year of the decision",
+  "description": "Number of production licences and Producer Certificates for renewable stations that ΡΑΑΕΥ's monthly register lists as revoked, expired or otherwise no longer valid, and their capacity in GW for solar PV, wind and other technologies, by year of the decision.",
+  "inLanguage": "en",
+  "source": "https://ariadnelabs.eu/guides/greece-renewables-licensing-pipeline.html",
+  "dateModified": "2026-10-23",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": "Ariadne Labs",
+  "rows": [
+    {
+      "Year of the decision": "2021 or earlier",
+      "Licences and certificates": "1,278",
+      "Solar PV (GW)": "3.0",
+      "Wind (GW)": "8.3",
+      "Other (GW)": "12.6"
+    },
+    {
+      "Year of the decision": "2022",
+      "Licences and certificates": "693",
+      "Solar PV (GW)": "5.1",
+      "Wind (GW)": "3.6",
+      "Other (GW)": "0.5"
+    },
+    {
+      "Year of the decision": "2023",
+      "Licences and certificates": "142",
+      "Solar PV (GW)": "0.6",
+      "Wind (GW)": "1.4",
+      "Other (GW)": "0.4"
+    },
+    {
+      "Year of the decision": "2024",
+      "Licences and certificates": "517",
+      "Solar PV (GW)": "6.1",
+      "Wind (GW)": "2.1",
+      "Other (GW)": "0.2"
+    },
+    {
+      "Year of the decision": "2025",
+      "Licences and certificates": "471",
+      "Solar PV (GW)": "6.4",
+      "Wind (GW)": "2.5",
+      "Other (GW)": "0.1"
+    },
+    {
+      "Year of the decision": "2026, to September",
+      "Licences and certificates": "362",
+      "Solar PV (GW)": "3.3",
+      "Wind (GW)": "2.8",
+      "Other (GW)": "0.1"
+    },
+    {
+      "Year of the decision": "No decision date",
+      "Licences and certificates": "385",
+      "Solar PV (GW)": "4.2",
+      "Wind (GW)": "2.5",
+      "Other (GW)": "0.3"
+    }
+  ]
+}
