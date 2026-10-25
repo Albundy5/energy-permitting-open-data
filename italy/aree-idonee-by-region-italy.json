@@ -3,7 +3,7 @@
   "description": "For each Italian region and autonomous province, the state of regional aree idonee implementation after Law 4/2026: verified law, bill under examination or not established, with the act, its publication, entry into force and a link to the official source.",
   "inLanguage": "en",
   "source": "https://ariadnelabs.eu/guides/aree-idonee-by-region-italy.html",
-  "dateModified": "2026-10-20",
+  "dateModified": "2026-10-24",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Ariadne Labs",
   "rows": [
@@ -90,11 +90,11 @@
     },
     {
       "Region": "Marche",
-      "Status": "Proposal under examination, not yet law",
-      "Act": "Consultation of 16 September 2026 documented; approval not established",
+      "Status": "Approved by the Regional Executive, not yet law",
+      "Act": "Bill approved by the Giunta on 19 October 2026 and sent to the Regional Council, after the consultation of 16 September 2026; no published act established in the BUR",
       "Source": "Region",
       "Links": [
-        "https://www.regione.marche.it/Entra-in-Regione/Centri-Impiego/Centri-per-l-impiego/News-ed-eventi/Post/118241"
+        "https://www.regione.marche.it/News-ed-Eventi/Post/118517/Energie-rinnovabili-la-Giunta-approva-la-proposta-di-legge-sulle-nuove-aree-idonee"
       ]
     },
     {
@@ -117,17 +117,17 @@
     },
     {
       "Region": "Apulia (Puglia)",
-      "Status": "Proposal under examination, not yet law",
-      "Act": "Committee examination and hearings of 18 March 2026 established; current status of the proposal not established",
+      "Status": "Text approved in committee, not yet law",
+      "Act": "Committee examination and hearings of 18 March 2026; on 8 October 2026 Committees IV and V, sitting jointly, approved by majority, with the opposition abstaining, a text that entirely replaces the bill; no Council vote established",
       "Source": "Regional Council",
       "Links": [
-        "https://www.consiglio.puglia.it/"
+        "https://www.consiglio.puglia.it/-/iv-e-v-commissione-ok-al-testo-riformulato-dalla-maggioranza-sulle-aree-idonee-per-gli-impianti-fer"
       ]
     },
     {
       "Region": "Sardinia (Sardegna)",
       "Status": "Law verified, with partial annulments",
-      "Act": "Regional Law no. 20 of 5 December 2024, BURAS no. 65 of 5 December 2024; amended by Regional Law no. 31 of 6 November 2025, BURAS no. 61 of 13 November 2025. Constitutional Court judgments 184/2025 and 144/2026 annulled part of its provisions",
+      "Act": "Regional Law no. 20 of 5 December 2024, BURAS no. 65 of 5 December 2024; amended by Regional Law no. 31 of 6 November 2025, BURAS no. 61 of 13 November 2025. Constitutional Court judgments 184/2025 and 144/2026 annulled part of its provisions; judgment 156/2026 (filed 1 October 2026) found the questions raised by TAR Lazio on the same law inadmissible or unfounded",
       "Source": "BURAS",
       "Links": [
         "https://buras.regione.sardegna.it/bollettino/59327/parte/59329/inserzione/59441"

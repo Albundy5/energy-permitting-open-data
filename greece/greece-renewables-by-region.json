@@ -3,7 +3,7 @@
   "description": "Number of stations and capacity in GW per Greek Region for solar PV, wind and renewable stations with integrated storage, and the capacity that has moved beyond the first stage, as recorded in ΡΑΑΕΥ's register.",
   "inLanguage": "en",
   "source": "https://ariadnelabs.eu/guides/greece-renewables-licensing-pipeline.html",
-  "dateModified": "2026-10-23",
+  "dateModified": "2026-10-25",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Ariadne Labs",
   "rows": [

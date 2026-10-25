@@ -3,7 +3,7 @@
   "description": "Number of production licences and Producer Certificates for renewable stations that ΡΑΑΕΥ's monthly register lists as revoked, expired or otherwise no longer valid, and their capacity in GW for solar PV, wind and other technologies, by year of the decision.",
   "inLanguage": "en",
   "source": "https://ariadnelabs.eu/guides/greece-renewables-licensing-pipeline.html",
-  "dateModified": "2026-10-23",
+  "dateModified": "2026-10-25",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Ariadne Labs",
   "rows": [

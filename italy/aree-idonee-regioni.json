@@ -3,7 +3,7 @@
   "description": "Per ogni regione e provincia autonoma, lo stato dell'attuazione regionale delle aree idonee dopo la Legge 4/2026: legge verificata, proposta in esame o non accertato, con l'atto, la pubblicazione, l'entrata in vigore e il link alla fonte ufficiale.",
   "inLanguage": "it",
   "source": "https://ariadnelabs.eu/it/guide/aree-idonee-regioni.html",
-  "dateModified": "2026-10-20",
+  "dateModified": "2026-10-24",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Ariadne Labs",
   "rows": [
@@ -90,11 +90,11 @@
     },
     {
       "Regione": "Marche",
-      "Stato": "Proposta in esame, non ancora legge",
-      "Atto": "Consultazione del 16 settembre 2026 documentata; approvazione non accertata",
+      "Stato": "Approvata dalla Giunta, non ancora legge",
+      "Atto": "Proposta di legge approvata dalla Giunta il 19 ottobre 2026 e trasmessa al Consiglio regionale, dopo la consultazione del 16 settembre 2026; nessun atto pubblicato accertato nel BUR",
       "Fonte": "Regione",
       "Link": [
-        "https://www.regione.marche.it/Entra-in-Regione/Centri-Impiego/Centri-per-l-impiego/News-ed-eventi/Post/118241"
+        "https://www.regione.marche.it/News-ed-Eventi/Post/118517/Energie-rinnovabili-la-Giunta-approva-la-proposta-di-legge-sulle-nuove-aree-idonee"
       ]
     },
     {
@@ -117,17 +117,17 @@
     },
     {
       "Regione": "Puglia",
-      "Stato": "Proposta in esame, non ancora legge",
-      "Atto": "Esame in commissione e audizioni del 18 marzo 2026 accertati; stato attuale della proposta non accertato",
+      "Stato": "Testo approvato in commissione, non ancora legge",
+      "Atto": "Esame in commissione e audizioni del 18 marzo 2026; l'8 ottobre 2026 le Commissioni IV e V, in seduta congiunta, hanno approvato a maggioranza, con l'astensione dell'opposizione, un testo che sostituisce per intero il disegno di legge; nessun voto del Consiglio accertato",
       "Fonte": "Consiglio regionale",
       "Link": [
-        "https://www.consiglio.puglia.it/"
+        "https://www.consiglio.puglia.it/-/iv-e-v-commissione-ok-al-testo-riformulato-dalla-maggioranza-sulle-aree-idonee-per-gli-impianti-fer"
       ]
     },
     {
       "Regione": "Sardegna",
       "Stato": "Legge verificata, con annullamenti parziali",
-      "Atto": "L.R. 5 dicembre 2024 n. 20, BURAS n. 65 del 5 dicembre 2024; modificata dalla L.R. 6 novembre 2025 n. 31, BURAS n. 61 del 13 novembre 2025. Corte cost. 184/2025 e 144/2026 hanno annullato parte delle disposizioni",
+      "Atto": "L.R. 5 dicembre 2024 n. 20, BURAS n. 65 del 5 dicembre 2024; modificata dalla L.R. 6 novembre 2025 n. 31, BURAS n. 61 del 13 novembre 2025. Corte cost. 184/2025 e 144/2026 hanno annullato parte delle disposizioni; la sentenza 156/2026 (depositata il 1° ottobre 2026) ha dichiarato inammissibili o non fondate le questioni sollevate dal TAR Lazio sulla stessa legge",
       "Fonte": "BURAS",
       "Link": [
         "https://buras.regione.sardegna.it/bollettino/59327/parte/59329/inserzione/59441"

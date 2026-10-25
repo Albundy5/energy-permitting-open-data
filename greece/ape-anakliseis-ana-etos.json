@@ -3,7 +3,7 @@
   "description": "Αριθμός αδειών παραγωγής και Βεβαιώσεων Παραγωγού σταθμών ΑΠΕ που το μηνιαίο μητρώο της ΡΑΑΕΥ καταγράφει ως ανακληθείσες, ληγμένες ή παυθείσες, και η ισχύς τους σε GW για φωτοβολταϊκούς, αιολικούς και λοιπούς σταθμούς, ανά έτος της απόφασης.",
   "inLanguage": "el",
   "source": "https://ariadnelabs.eu/el/odigoi/adeiodotisi-ape-se-arithmous.html",
-  "dateModified": "2026-10-23",
+  "dateModified": "2026-10-25",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Ariadne Labs",
   "rows": [
