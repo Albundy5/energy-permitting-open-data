@@ -3,7 +3,7 @@
   "description": "Number of decisions including standalone storage stations under ΠΠΔ, and injection power in MW where the subject states it, by the Region that issued them.",
   "inLanguage": "en",
   "source": "https://ariadnelabs.eu/guides/greece-battery-storage-environmental-approvals.html",
-  "dateModified": "2026-10-21",
+  "dateModified": "2026-10-26",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Ariadne Labs",
   "rows": [
@@ -19,8 +19,8 @@
     },
     {
       "Region": "Western Macedonia",
-      "Inclusion decisions": "105",
-      "Injection power (MW)": "2663"
+      "Inclusion decisions": "106",
+      "Injection power (MW)": "2699"
     },
     {
       "Region": "Thessaly",
